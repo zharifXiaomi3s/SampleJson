@@ -1,0 +1,114 @@
+{
+  "retCode": "00000",
+  "retMsg": "Success",
+  "result": [
+    {
+      "title": "Our services for you",
+      "detail": [
+        {
+          "categoryId": 1,
+          "productCategory": "BSi",
+          "productName": "Babysitter",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/1702/1702335.png",
+          "displayServType": 1
+        },
+        {
+          "categoryId": 2,
+          "productCategory": "PSc",
+          "productName": "Pre-school",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/4290/4290228.png",
+          "displayServType": 1
+        },
+        {
+          "categoryId": 3,
+          "productCategory": "Rid",
+          "productName": "Ride",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/3790/3790018.png",
+          "displayServType": 1
+        }
+      ]
+    },
+    {
+      "title": "Top babysitter near you",
+      "detail": [
+        {
+          "userId": 1,
+          "productCategory": "BSi",
+          "userName": "Mohd Zharif",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/1674/1674455.png",
+          "displayServType": 2
+        },
+        {
+          "userId": 2,
+          "productCategory": "BSi",
+          "userName": "Aziz",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/1674/1674456.png",
+          "displayServType": 2
+        },
+        {
+          "userId": 3,
+          "productCategory": "BSi",
+          "userName": "Hakim Mustafa",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/1674/1674454.png",
+          "displayServType": 2
+        }
+      ]
+    },
+    {
+      "title": "Recommended transportation",
+      "detail": [
+        {
+          "userId": 1,
+          "productCategory": "Rid",
+          "companyName": "Zharif Bus Co.",
+          "userName": "Mohd Zharif",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/4662/4662005.png",
+          "price": "RM 30/month",
+          "displayServType": 3
+        },
+        {
+          "userId": 2,
+          "productCategory": "Rid",
+          "companyName": "Aziz Driver Group",
+          "userName": "Aziz Zahid",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/4391/4391506.png",
+          "price": "RM 35/month",
+          "displayServType": 3
+        },
+        {
+          "userId": 3,
+          "productCategory": "Rid",
+          "companyId": 1,
+          "companyName": "Hakim Scooter",
+          "userName": "Hakim Mustaffa",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/619/619108.png",
+          "price": "RM 15/month",
+          "displayServType": 3
+        },
+        {
+          "userId": 4,
+          "productCategory": "Rid",
+          "companyId": 1,
+          "companyName": "Reka-reka bicycle",
+          "userName": "Afhzal",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/2972/2972244.png",
+          "price": "RM 10/month",
+          "displayServType": 3
+        }
+      ]
+    },
+    {
+      "title": "Top search",
+      "detail": [
+        {
+          "userId": 1,
+          "productCategory": "BSi",
+          "userName": "Nur Ameenah",
+          "posterUrl": "https://cdn-icons-png.flaticon.com/512/921/921053.png",
+          "price": "RM 300/month",
+          "displayServType": 4
+        }
+      ]
+    }
+  ]
+}
