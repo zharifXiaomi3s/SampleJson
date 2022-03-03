@@ -1,0 +1,23 @@
+{
+  "retCode": "00000",
+  "retMsg": "Success",
+  "result": {
+    "subscriptions": [
+      {
+        "desc": "Lorem ipsum",
+        "isSubscribe": true,
+        "isVisit": true
+      },
+      {
+        "desc": "Lorem ipsum",
+        "isSubscribe": false,
+        "isVisit": false
+      },
+      {
+        "desc": "Lorem ipsum",
+        "isSubscribe": false,
+        "isVisit": true
+      }
+    ]
+  }
+}
