@@ -1,0 +1,51 @@
+{
+  "retCode": "00000",
+  "retMsg": "Success",
+  "result": {
+    "profile": {
+      "userId": 1,
+      "userName": "Mohd Zharif Bin Anuar",
+      "dob": "03/11/1987",
+      "gender": "Male",
+      "posterUrl": "https://cdn-icons-png.flaticon.com/512/6761/6761627.png",
+      "weakness": "Hi my name is Maimon. Can call me auntie, i don't mind. I have 2 grown up children and I love children. Willing to babysit kids to earn some income."
+    },
+    "product": [
+      {
+        "productId": 1,
+        "productCategory": "BSi",
+        "productName": "New-Born",
+        "price": "RM400/month",
+        "desc": "Our service to take good care of your new-born kids. We promise you we are the best babysitter & the cheapest babysitter to provide new-born babysitter service in Malaysia."
+      },
+      {
+        "productId": 2,
+        "productCategory": "BSi",
+        "productName": "6 - 12 month",
+        "price": "RM350/month",
+        "desc": "This is our second service. From the age of 6 to 12 months, is very important age. The kids development really matters to us."
+      },
+      {
+        "productId": 3,
+        "productCategory": "BSi",
+        "productName": "1 - 3 year",
+        "price": "RM350/month",
+        "desc": "Our package for 1 to 3 years old kids. Our package comes with extra discount to our continuous customers."
+      },
+      {
+        "productId": 7,
+        "productCategory": "BSi",
+        "productName": "4 - 6 year",
+        "price": "RM350/month",
+        "desc": "We provide pre-school education for the kids, around 2 hours everyday to prepare them before entering pre-school."
+      },
+      {
+        "productId": 8,
+        "productCategory": "BSi",
+        "productName": "7 - 9 year",
+        "price": "RM350/month",
+        "desc": "We also provide this service"
+      }
+    ]
+  }
+}
