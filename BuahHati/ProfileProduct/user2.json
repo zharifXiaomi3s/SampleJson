@@ -1,0 +1,34 @@
+{
+  "retCode": "00000",
+  "retMsg": "Success",
+  "result": {
+    "profile": {
+      "userId": 2,
+      "userName": "Aziz Zahid",
+      "dob": "99/02/1989",
+      "gender": "Male",
+      "posterUrl": "https://cdn-icons-png.flaticon.com/512/6742/6742648.png",
+      "weakness": "Jeng"
+    },
+    "product": [
+      {
+        "productId": 4,
+        "productCategory": "BSi",
+        "productName": "New-Born",
+        "price": "RM500/month"
+      },
+      {
+        "productId": 5,
+        "productCategory": "BSi",
+        "productName": "6 - 12 month",
+        "price": "RM400/month"
+      },
+      {
+        "productId": 6,
+        "productCategory": "BSi",
+        "productName": "1 - 5 year",
+        "price": "RM400/month"
+      }
+    ]
+  }
+}
