@@ -4,17 +4,26 @@
   "result": {
     "subscriptions": [
       {
-        "desc": "Lorem ipsum",
+        "productId": "XYZ-100",
+        "desc": "New Born",
         "isSubscribe": true,
         "isVisit": true
       },
       {
-        "desc": "Lorem ipsum",
+        "productId": "ASW-76",
+        "desc": "Tadika Kemas-Kemas",
         "isSubscribe": false,
         "isVisit": false
       },
       {
-        "desc": "Lorem ipsum",
+        "productId": "BGF-22",
+        "desc": "Pre-School Khalifa Kids",
+        "isSubscribe": false,
+        "isVisit": true
+      },
+      {
+        "productId": "AK-46",
+        "desc": "Pre-School Khalifa Kids",
         "isSubscribe": false,
         "isVisit": true
       }
