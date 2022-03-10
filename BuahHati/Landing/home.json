@@ -9,21 +9,21 @@
           "categoryId": 1,
           "productCategory": "BSi",
           "productName": "Babysitter",
-          "posterUrl": "https://cdn-icons-png.flaticon.com/512/1702/1702335.png",
+          "posterUrl": "https://zharifxiaomi3s.github.io/SampleJson/BuahHati/Images/serviceBabysit.png",
           "displayServType": 1
         },
         {
           "categoryId": 2,
           "productCategory": "PSc",
           "productName": "Pre-school",
-          "posterUrl": "https://cdn-icons-png.flaticon.com/512/4290/4290228.png",
+          "posterUrl": "https://zharifxiaomi3s.github.io/SampleJson/BuahHati/Images/servicePreSchool.png",
           "displayServType": 1
         },
         {
           "categoryId": 3,
           "productCategory": "Rid",
           "productName": "Ride",
-          "posterUrl": "https://zharifxiaomi3s.github.io/SampleJson/kidkugo-01.png",
+          "posterUrl": "https://zharifxiaomi3s.github.io/SampleJson/BuahHati/Images/serviceRide.png",
           "displayServType": 1
         }
       ]
