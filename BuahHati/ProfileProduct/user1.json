@@ -16,35 +16,40 @@
         "productCategory": "BSi",
         "productName": "New-Born",
         "price": "RM400/month",
-        "desc": "Our service to take good care of your new-born kids. We promise you we are the best babysitter & the cheapest babysitter to provide new-born babysitter service in Malaysia."
+        "desc": "Our service to take good care of your new-born kids. We promise you we are the best babysitter & the cheapest babysitter to provide new-born babysitter service in Malaysia.",
+        "posterUrl": "https://github.com/zharifXiaomi3s/SampleJson/blob/main/BuahHati/Images/newBorn.png"
       },
       {
         "productId": 2,
         "productCategory": "BSi",
         "productName": "6 - 12 month",
         "price": "RM350/month",
-        "desc": "This is our second service. From the age of 6 to 12 months, is very important age. The kids development really matters to us."
+        "desc": "This is our second service. From the age of 6 to 12 months, is very important age. The kids development really matters to us.",
+        "posterUrl": "https://github.com/zharifXiaomi3s/SampleJson/blob/main/BuahHati/Images/sixthMonth.png"
       },
       {
         "productId": 3,
         "productCategory": "BSi",
         "productName": "1 - 3 year",
         "price": "RM350/month",
-        "desc": "Our package for 1 to 3 years old kids. Our package comes with extra discount to our continuous customers."
+        "desc": "Our package for 1 to 3 years old kids. Our package comes with extra discount to our continuous customers.",
+        "posterUrl": "https://github.com/zharifXiaomi3s/SampleJson/blob/main/BuahHati/Images/twelthMonth.PNG"
       },
       {
         "productId": 7,
         "productCategory": "BSi",
         "productName": "4 - 6 year",
         "price": "RM350/month",
-        "desc": "We provide pre-school education for the kids, around 2 hours everyday to prepare them before entering pre-school."
+        "desc": "We provide pre-school education for the kids, around 2 hours everyday to prepare them before entering pre-school.",
+        "posterUrl": "https://github.com/zharifXiaomi3s/SampleJson/blob/main/BuahHati/Images/twelthMonth.PNG"
       },
       {
         "productId": 8,
         "productCategory": "BSi",
         "productName": "7 - 9 year",
         "price": "RM350/month",
-        "desc": "We also provide this service"
+        "desc": "We also provide this service",
+        "posterUrl": "https://github.com/zharifXiaomi3s/SampleJson/blob/main/BuahHati/Images/twelthMonth.PNG"
       }
     ]
   }
