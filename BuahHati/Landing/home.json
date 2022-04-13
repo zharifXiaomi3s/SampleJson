@@ -35,6 +35,11 @@
           "userId": 1,
           "productCategory": "BSi",
           "userName": "Mohd Zharif",
+          "isFavorite": true,
+          "isVerified": true,
+          "babysitted": 25,
+          "recommend": 192,
+          "totalProduct": 5,
           "posterUrl": "https://cdn-icons-png.flaticon.com/512/1674/1674455.png",
           "displayServType": 2
         },
@@ -42,6 +47,11 @@
           "userId": 2,
           "productCategory": "BSi",
           "userName": "Aziz",
+          "isFavorite": true,
+          "isVerified": true,
+          "babysitted": 25,
+          "recommend": 192,
+          "totalProduct": 5,
           "posterUrl": "https://cdn-icons-png.flaticon.com/512/1674/1674456.png",
           "displayServType": 2
         },
@@ -49,6 +59,11 @@
           "userId": 3,
           "productCategory": "BSi",
           "userName": "Hakim Mustafa",
+          "isFavorite": true,
+          "isVerified": true,
+          "babysitted": 25,
+          "recommend": 192,
+          "totalProduct": 5,
           "posterUrl": "https://cdn-icons-png.flaticon.com/512/1674/1674454.png",
           "displayServType": 2
         }
