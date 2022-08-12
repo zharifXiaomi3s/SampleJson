@@ -10,6 +10,46 @@
           "name": "TV1",
           "introduce": "RTM TV1 is a free to air television network in Malaysia which is owned and operated by Radio Television Malaysia (RTM)",
           "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png"
+        },
+        {
+          "name": "TV2",
+          "introduce": "RTM TV2 is a free to air television network in Malaysia which is owned and operated by Radio Television Malaysia (RTM)",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png"
+        },
+        {
+          "name": "TV3",
+          "introduce": "TV3 is a free to air television network.",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png"
+        },
+        {
+          "name": "DidikTV KPM",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png"
+        },
+        {
+          "name": "8TV",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png"
+        },
+        {
+          "name": "TV9",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png"
+        },
+        {
+          "name": "SALAM HD",
+          "introduce": "Salam HD Channel, a dedicated and compressive Islamic channel in HD with 70% of the content focusing on preaching and 30% on lifestyle, suitable for family viewing. The new content ranges from talk show, drama series, telemovies, documentaries, reality and lifestyle.",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png"
+        },
+        {
+          "name": "TV AlHijrah HD",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png"
+        },
+        {
+          "name": "HyppSensasi HD",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png"
+        },
+        {
+          "name": "HyppInspirasi HD",
+          "introduce": "HyppInspirasi HD channel is a youth lifestyle channel targeted at Malay youth between 15 – 35 years old. The channel emphasis on four main genres- lifestyle/travelogue, reality, food and music, and in HD.",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png"
         }
       ]
     }
