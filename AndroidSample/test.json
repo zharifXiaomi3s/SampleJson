@@ -1,9 +1,17 @@
 {
-  "response": [
-    {
-      "channelId": "1",
-      "title": "TV1",
-      "posterUrl": ""
+  "response": {
+      "result": {
+          "retMsg": "Success",
+          "retCode": "000000000"
+      },
+      "total": 10,
+      "channelDetail": [
+        {
+          "name": "TV1",
+          "introduce": "RTM TV1 is a free to air television network in Malaysia which is owned and operated by Radio Television Malaysia (RTM)",
+          "posterUrl": "http://1.9.217.181:7011/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png"
+        }
+      ]
     }
-  ]
+  }
 }
