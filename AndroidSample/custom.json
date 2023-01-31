@@ -26,11 +26,11 @@
       },
       {
         "title": "SAMPLE ROW CUSTOM V1",
-        "apiType": "nm",
+        "apiType": "nm00a",
         "action": "0",
         "colcell": "homevodcolcell",
         "showMore": "0",
-        "type": "NM0",
+        "type": "4",
         "count": "10",
         "customFields": [
             {
