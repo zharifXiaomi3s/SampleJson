@@ -49,6 +49,15 @@
             }
         ]
       },
+        {
+        "title": "LIVE TV",
+        "apiType": "hw",
+        "action": "0",
+        "colCell": "homechannelcolcell",
+        "showMore": "1",
+        "type": "9",
+        "count": "50"
+      },
       {
         "title": "HIGHLIGHTS",
         "apiType": "hw",
@@ -63,15 +72,6 @@
             "values": ["H1001"]
           }
         ]
-      },
-      {
-        "title": "LIVE TV",
-        "apiType": "hw",
-        "action": "0",
-        "colCell": "homechannelcolcell",
-        "showMore": "1",
-        "type": "9",
-        "count": "50"
       }
     ]
   }
