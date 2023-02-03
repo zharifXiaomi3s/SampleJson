@@ -98,7 +98,7 @@
         "colCell": "homevodcolcell",
         "showMore": "1",
         "type": "3",
-        "count": "10",
+        "count": "20",
         "extensionFields": [
           {
             "key": "subjectID",
@@ -112,8 +112,14 @@
         "action": "0",
         "colCell": "homevodcolcell",
         "showMore": "0",
-        "type": "4",
+        "type": "3",
         "count": "0",
+        "extensionFields": [
+            {
+                "key": "subjectID",
+                "values": ["H1001"]
+            }
+        ],
         "customFields": [
             {
                 "ID": "59502549"
