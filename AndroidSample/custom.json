@@ -140,6 +140,32 @@
         ]
       },
         {
+        "title": "SAMPLE ROW CUSTOM 3",
+        "apiType": "nm00b",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "3",
+        "count": "20",
+        "extensionFields": [
+            {
+                "key": "subjectID",
+                "values": ["H1001"]
+            }
+        ],
+        "customFields": [
+            {
+                "ID": "60337666"
+            },
+            {
+                "ID": "59502549"
+            },
+            {
+                "ID": "60123901"
+            }
+        ]
+      },
+        {
         "title": "LIVE TV",
         "apiType": "hw",
         "action": "0",
