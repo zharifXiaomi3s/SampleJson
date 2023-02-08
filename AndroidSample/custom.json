@@ -89,10 +89,10 @@
                 "name": "Sate Ayam"
             },
             {
-                "ID": "49794155",
-                "action": "vod_in",
-                "picture": "https://cdn.rasa.my/2022/01/428335.jpeg",
-                "name": "Nasi Ayam"
+                "ID": "https://apps.apple.com/my/app/viu-stream-tv-shows-serials/id1044543328",
+                "action": "url_out",
+                "picture": "https://image.winudf.com/v2/image1/Y29tLnZ1Y2xpcC52aXVfc2NyZWVuXzBfMTY2Nzk2MjU5OV8wMjE/screen-0.jpg?fakeurl=1&type=.jpg",
+                "name": "Viu app"
             },
             {
                 "ID": "60583569",
