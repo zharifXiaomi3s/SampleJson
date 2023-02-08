@@ -46,7 +46,7 @@
                 "name": "TV3"
             },
             {
-                "ID": "https://www.youtube.com/watch?v=rexR-NstIX4",
+                "ID": "https://www.youtube.com/",
                 "action": "url_out",
                 "picture": "https://img.freepik.com/free-vector/youtube-player-icon-with-flat-design_23-2147837753.jpg",
                 "name": "Youtube"
