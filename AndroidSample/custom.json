@@ -35,65 +35,70 @@
             {
                 "ID": "60449109",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://marketplace.canva.com/EAFKBlkPokE/1/0/1131w/canva-beige-yellow-modern-minimal-save-the-planet-campaign-poster-nJZWEeiuixo.jpg",
-                "VODType": "0",
                 "name": "Section 8"
+            },
+            {
+                "ID": "60828691",
+                "channelID": "20000011",
+                "action": "livetv_in",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6klZedzG0sgUZswFV2gT7tucNVQc-8s7Qg&usqp=CAU",
+                "name": "TV3"
             },
             {
                 "ID": "43283",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://pbs.twimg.com/media/FQea_f4VQAIJko1.jpg",
-                "VODType": "0",
                 "name": "Minions"
             },
             {
                 "ID": "57881270",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://m.media-amazon.com/images/M/MV5BMWMxMTgyODAtNTMwNS00ZGVjLTlkODAtZWJlYjIxMGRmZWY0XkEyXkFqcGdeQXVyNTk5ODg4NDA@._V1_FMjpg_UX1000_.jpg",
-                "VODType": "0",
                 "name": "Power Ranger"
+            },
+            {
+                "ID": "60826123",
+                "channelID": "20000014",
+                "action": "livetv_in",
+                "picture": "https://baiturrahman.my/wp-content/uploads/2022/06/24-2-22.jpg",
+                "name": "TV Al-Hijrah"
             },
             {
                 "ID": "57887707",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://pbs.twimg.com/media/FQea_f4VQAIJko1.jpg",
-                "VODType": "0",
                 "name": "Apple -"
             },
             {
                 "ID": "59863016",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://central.menarikdi.com/wp-content/uploads/2021/08/132610368_3407036939419694_7071731645812610957_n.jpg",
-                "VODType": "0",
                 "name": "Burger Bakar"
             },
             {
                 "ID": "52645637",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://www.ajinomoto.com.my/sites/default/files/content/recipe/image/2021-03/sate-pakngah.jpg",
-                "VODType": "0",
                 "name": "Sate Ayam"
             },
             {
                 "ID": "49794155",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://cdn.rasa.my/2022/01/428335.jpeg",
-                "VODType": "0",
                 "name": "Nasi Ayam"
+            },
+            {
+                "ID": "60583569",
+                "channelID": "20000070",
+                "action": "livetv_in",
+                "picture": "https://pbs.twimg.com/media/E2Yus3cVUAgOitI?format=jpg&name=large",
+                "name": "Salam HD"
             },
             {
                 "ID": "49795444",
                 "action": "vod_in",
-                "contentType": "VIDEO_VOD",
                 "picture": "https://www.vtechbarcode.com.my/wp-content/uploads/2021/07/Ptomotion.jpeg",
-                "VODType": "0",
                 "name": "POS"
             }
         ]
@@ -136,32 +141,6 @@
             },
             {
                 "ID": "60337666"
-            }
-        ]
-      },
-        {
-        "title": "SAMPLE ROW CUSTOM 3",
-        "apiType": "nm00b",
-        "action": "0",
-        "colCell": "homevodcolcell",
-        "showMore": "0",
-        "type": "3",
-        "count": "20",
-        "extensionFields": [
-            {
-                "key": "subjectID",
-                "values": ["H1001"]
-            }
-        ],
-        "customFields": [
-            {
-                "ID": "60337666"
-            },
-            {
-                "ID": "59502549"
-            },
-            {
-                "ID": "60123901"
             }
         ]
       },
