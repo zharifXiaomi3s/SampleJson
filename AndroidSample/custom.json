@@ -159,7 +159,7 @@
     {
       "title": "SAMPLE ROW CUSTOM 3",
       "apiType": "nm00a",
-      "colCell": "homevodcolcell",
+      "colCell": "homepartnercolcell",
       "showMore": "0",
       "type": "4",
       "count": "0",
