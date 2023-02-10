@@ -157,12 +157,22 @@
       ]
     },
     {
+      "title": "LIVE TV",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homechannelcolcell",
+      "showMore": "1",
+      "type": "9",
+      "count": "50"
+    },
+    {
       "title": "SAMPLE ROW CUSTOM 3",
       "apiType": "nm00a",
       "colCell": "homepartnercolcell",
       "showMore": "0",
       "type": "4",
       "count": "0",
+      "isLastRow": 1,
       "customFields": [
         {
           "ID": "https://apps.apple.com/my/app/viu-stream-tv-shows-serials/id1044543328",
@@ -207,15 +217,6 @@
           "name": "Astro Go app"
         }
       ]
-    },
-    {
-      "title": "LIVE TV",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homechannelcolcell",
-      "showMore": "1",
-      "type": "9",
-      "count": "50"
     }
   ]
 }
