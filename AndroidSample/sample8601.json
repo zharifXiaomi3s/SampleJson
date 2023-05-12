@@ -49,7 +49,7 @@
       "count": "0"
     },
     {
-      "title": "SAMPLE ROW CUSTOM 1",
+      "title": "FAST & FURIOUS FEVER",
       "apiType": "nm00a",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -57,79 +57,52 @@
       "count": "0",
       "customFields": [
         {
-          "ID": "60449109",
+          "ID": "53067224",
           "action": "vod_in",
-          "picture": "https://marketplace.canva.com/EAFKBlkPokE/1/0/1131w/canva-beige-yellow-modern-minimal-save-the-planet-campaign-poster-nJZWEeiuixo.jpg",
-          "name": "Section 8"
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/202212/20221207/20221207035433995fjr_op.jpg",
+          "name": "F9: The Fast Saga"
         },
         {
-          "ID": "60828691",
-          "channelID": "20000011",
-          "action": "livetv_in",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6klZedzG0sgUZswFV2gT7tucNVQc-8s7Qg&usqp=CAU",
-          "name": "TV3"
-        },
-        {
-          "ID": "https://www.youtube.com/",
-          "action": "url_out",
-          "picture": "https://img.freepik.com/free-vector/youtube-player-icon-with-flat-design_23-2147837753.jpg",
-          "name": "Youtube"
-        },
-        {
-          "ID": "43283",
+          "ID": "105416",
           "action": "vod_in",
-          "picture": "https://pbs.twimg.com/media/FQea_f4VQAIJko1.jpg",
-          "name": "Minions"
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/201911/20191128/20191128065948800eco_op.jpg",
+          "name": "Fast & Furious Presents: Hobbs & Shaw"
         },
         {
-          "ID": "57881270",
+          "ID": "65582",
           "action": "vod_in",
-          "picture": "https://m.media-amazon.com/images/M/MV5BMWMxMTgyODAtNTMwNS00ZGVjLTlkODAtZWJlYjIxMGRmZWY0XkEyXkFqcGdeQXVyNTk5ODg4NDA@._V1_FMjpg_UX1000_.jpg",
-          "name": "Power Ranger"
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/201910/20191014/20191014135503626kbz_op.jpg",
+          "name": "The Fate Of The Furious"
         },
         {
-          "ID": "60826123",
-          "channelID": "20000014",
-          "action": "livetv_in",
-          "picture": "https://baiturrahman.my/wp-content/uploads/2022/06/24-2-22.jpg",
-          "name": "TV Al-Hijrah"
-        },
-        {
-          "ID": "57887707",
+          "ID": "40167",
           "action": "vod_in",
-          "picture": "https://pbs.twimg.com/media/FQea_f4VQAIJko1.jpg",
-          "name": "Apple -"
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/202205/20220508/202205080406039930pq_op.jpg",
+          "name": "Furious 7"
         },
         {
-          "ID": "59863016",
+          "ID": "22240",
           "action": "vod_in",
-          "picture": "https://central.menarikdi.com/wp-content/uploads/2021/08/132610368_3407036939419694_7071731645812610957_n.jpg",
-          "name": "Burger Bakar"
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/201907/20190718/20190718132020350mf1_op.jpg",
+          "name": "Fast & Furious 6"
         },
         {
-          "ID": "52645637",
+          "ID": "22342",
           "action": "vod_in",
-          "picture": "https://www.ajinomoto.com.my/sites/default/files/content/recipe/image/2021-03/sate-pakngah.jpg",
-          "name": "Sate Ayam"
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/201907/20190718/2019071813174534918v_op.jpg",
+          "name": "Fast Five"
         },
         {
-          "ID": "https://apps.apple.com/my/app/viu-stream-tv-shows-serials/id1044543328",
-          "action": "url_out",
-          "picture": "https://image.winudf.com/v2/image1/Y29tLnZ1Y2xpcC52aXVfc2NyZWVuXzBfMTY2Nzk2MjU5OV8wMjE/screen-0.jpg?fakeurl=1&type=.jpg",
-          "name": "Viu app"
-        },
-        {
-          "ID": "60583569",
-          "channelID": "20000070",
-          "action": "livetv_in",
-          "picture": "https://pbs.twimg.com/media/E2Yus3cVUAgOitI?format=jpg&name=large",
-          "name": "Salam HD"
-        },
-        {
-          "ID": "49795444",
+          "ID": "22243",
           "action": "vod_in",
-          "picture": "https://www.vtechbarcode.com.my/wp-content/uploads/2021/07/Ptomotion.jpeg",
-          "name": "POS"
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/201907/20190718/2019071813161819468t_op.jpg",
+          "name": "Fast & Furious"
+        },
+        {
+          "ID": "39955",
+          "action": "vod_in",
+          "picture": "http://1.9.58.117:7009/CPS/images/universal/film/poster/201910/20191014/20191014140133991126_op.jpg",
+          "name": "The Fast And The Furious: Tokyo Drift"
         }
       ]
     },
