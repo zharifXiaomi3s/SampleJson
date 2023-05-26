@@ -228,7 +228,7 @@
       "showMore": "1",
       "type": "9",
       "count": "50",
-      "isLastRow": true
+      "isLastRow": false
     }
   ]
 }
