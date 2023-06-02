@@ -1,6 +1,15 @@
 {
   "request": [
     {
+      "title": "CONTINUE WATCHING",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "11",
+      "count": "20"
+    },
+    {
       "title": "BANNER",
       "apiType": "hw",
       "action": "0",
@@ -16,15 +25,6 @@
           ]
         }
       ]
-    },
-    {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "11",
-      "count": "20"
     },
     {
       "title": "UNIFI TV ORIGINALS",
@@ -73,6 +73,23 @@
           "key": "subjectID",
           "values": [
             "H2005"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "NEW OF THE WEEK SAMPLE",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "15",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "H2001"
           ]
         }
       ]
