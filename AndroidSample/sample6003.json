@@ -10,23 +10,6 @@
       "count": "20"
     },
     {
-      "title": "BANNER",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "bannercolcell",
-      "showMore": "0",
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "H1001"
-          ]
-        }
-      ]
-    },
-    {
       "title": "UNIFI TV ORIGINALS",
       "apiType": "hw",
       "action": "0",
@@ -39,6 +22,23 @@
           "key": "subjectID",
           "values": [
             "H5001"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BANNER",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "bannercolcell",
+      "showMore": "0",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "H1001"
           ]
         }
       ]
