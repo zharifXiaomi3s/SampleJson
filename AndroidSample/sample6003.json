@@ -1,35 +1,8 @@
 {
   "request": [
     {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "11",
-      "count": "20"
-    },
-    {
-      "title": "UNIFI TV ORIGINALS",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "15",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "H5001"
-          ]
-        }
-      ]
-    },
-    {
       "title": "BANNER",
       "apiType": "hw",
-      "action": "0",
       "colCell": "bannercolcell",
       "showMore": "0",
       "type": "3",
@@ -44,9 +17,32 @@
       ]
     },
     {
+      "title": "CONTINUE WATCHING",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "11",
+      "count": "20"
+    },
+    {
+      "title": "UNIFI TV ORIGINALS",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "15",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "H5001"
+          ]
+        }
+      ]
+    },
+    {
       "title": "HIGHLIGHTS",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -63,7 +59,6 @@
     {
       "title": "RECOMMENDED MOVIES",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -78,9 +73,8 @@
       ]
     },
     {
-      "title": "NEW OF THE WEEK SAMPLE",
+      "title": "NEW OF THE WEEK",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -97,7 +91,6 @@
     {
       "title": "RECOMMENDED SERIES",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -114,7 +107,6 @@
     {
       "title": "KIDS",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -131,7 +123,6 @@
     {
       "title": "BBC FIRST HD",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -148,9 +139,8 @@
     {
       "title": "INFO",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homevodcolcell",
-      "showMore": "0",
+      "showMore": "1",
       "type": "3",
       "count": "15",
       "extensionFields": [
@@ -165,7 +155,6 @@
     {
       "title": "CHANNELS",
       "apiType": "hw",
-      "action": "0",
       "colCell": "homechannelcolcell",
       "showMore": "1",
       "type": "9",
