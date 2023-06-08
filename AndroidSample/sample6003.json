@@ -201,22 +201,6 @@
       ]
     },
     {
-      "title": "NEW OF THE WEEK",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "30",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "H2001"
-          ]
-        }
-      ]
-    },
-    {
       "title": "RECOMMENDED SERIES",
       "apiType": "hw",
       "colCell": "homevodcolcell",
