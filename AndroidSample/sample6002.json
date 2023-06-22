@@ -27,23 +27,6 @@
       "count": "30"
     },
     {
-      "title": "UNIFI TV ORIGINALS",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "30",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "SW5001"
-          ]
-        }
-      ]
-    },
-    {
       "title": "DARK & TWISTED",
       "apiType": "nm00a",
       "colCell": "homevodcolcell",
@@ -189,6 +172,23 @@
       ]
     },
     {
+      "title": "NEW THIS WEEK",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "30",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "SW5002"
+          ]
+        }
+      ]
+    },
+    {
       "title": "RECOMMENDED MOVIES",
       "apiType": "hw",
       "action": "0",
@@ -261,7 +261,7 @@
       "apiType": "hw",
       "action": "0",
       "colCell": "homevodcolcell",
-      "showMore": "0",
+      "showMore": "1",
       "type": "3",
       "count": "30",
       "extensionFields": [

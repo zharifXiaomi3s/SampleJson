@@ -25,22 +25,6 @@
       "count": "30"
     },
     {
-      "title": "UNIFI TV ORIGINALS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "30",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "H5001"
-          ]
-        }
-      ]
-    },
-    {
       "title": "DARK & TWISTED",
       "apiType": "nm00a",
       "colCell": "homevodcolcell",
@@ -180,6 +164,22 @@
           "key": "subjectID",
           "values": [
             "H1001"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "NEW THIS WEEK",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "30",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "H5002"
           ]
         }
       ]
