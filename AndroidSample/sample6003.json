@@ -17,148 +17,12 @@
       ]
     },
     {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "11",
-      "count": "30"
-    },
-    {
-      "title": "DARK & TWISTED",
-      "apiType": "nm00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "ID": "62969249",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202305/20230529/202305290701189936o2_op.jpg",
-          "name": "Pulau"
-        },
-        {
-          "ID": "55933800",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202205/20220511/202205110949448227hj_op.jpg",
-          "name": "Jailangkung"
-        },
-        {
-          "ID": "55565959",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202204/20220420/20220420090642342d68_op.jpg",
-          "name": "Scream (2022)"
-        },
-        {
-          "ID": "62703244",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202305/20230523/20230523095856186uor_op.jpg",
-          "name": "Scream VI"
-        },
-        {
-          "ID": "61038662",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202302/20230222/20230222031751184ibc_op.jpg",
-          "name": "Scream 3"
-        },
-        {
-          "ID": "61038659",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202302/20230222/2023022203085899635s_op.jpg",
-          "name": "Scream 2"
-        },
-        {
-          "ID": "61036194",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202302/20230222/20230222022136185osh_op.jpg",
-          "name": "Scream (1996)"
-        },
-        {
-          "ID": "61069772",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202303/20230301/20230301035853993c3x_op.jpg",
-          "name": "Lullaby"
-        },
-        {
-          "ID": "96810",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202204/20220417/20220417171111187iv0_op.jpg",
-          "name": "Us"
-        }
-      ]
-    },
-    {
-      "title": "SPIDER-VERSE",
-      "apiType": "nm00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "ID": "100674",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201910/20191029/2019102903550863578f_op.jpg",
-          "name": "Spider-Man: Far From Home (2019)"
-        },
-        {
-          "ID": "54044627",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202201/20220129/20220129035409587lp6_op.jpg",
-          "name": "Spider-Man: Into the Spider-Verse (2018)"
-        },
-        {
-          "ID": "88437",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202106/20210615/202106150450460287g4_op.jpg",
-          "name": "Venom (2018)"
-        },
-        {
-          "ID": "69302",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/202104/20210427/20210427065846027h2d_op.jpg",
-          "name": "Spider-Man: Homecoming (2017)"
-        },
-        {
-          "ID": "22548",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190719/201907190653003508ej_op.jpg",
-          "name": "The Amazing Spider-Man 2 (2014)"
-        },
-        {
-          "ID": "21236",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190722/20190722071530350n4e_op.jpg",
-          "name": "The Amazing Spider-Man (2012)"
-        },
-        {
-          "ID": "41155",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190722/201907220654531999io_op.jpg",
-          "name": "Spider-Man 3 (2007)"
-        },
-        {
-          "ID": "41186",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190722/20190722065320351hs6_op.jpg",
-          "name": "Spider-Man 2 (2004)"
-        },
-        {
-          "ID": "41185",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190722/20190722065108200oe1_op.jpg",
-          "name": "Spider-Man"
-        }
-      ]
-    },
-    {
       "title": "HIGHLIGHTS",
       "apiType": "hw",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "30",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
@@ -174,7 +38,7 @@
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "30",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
@@ -185,12 +49,28 @@
       ]
     },
     {
+      "title": "CONTINUE WATCHING",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "11",
+      "count": "20"
+    },
+    {
+      "title": "MY PURCHASED LIBRARY",
+      "apiType": "hw00a",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0"
+    },
+    {
       "title": "RECOMMENDED MOVIES",
       "apiType": "hw",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "30",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
@@ -206,7 +86,7 @@
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "30",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
@@ -222,7 +102,7 @@
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "30",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
@@ -238,7 +118,7 @@
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "30",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
@@ -254,7 +134,7 @@
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "30",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
