@@ -17,6 +17,14 @@
       ]
     },
     {
+      "title": "CONTINUE WATCHING",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "11",
+      "count": "20"
+    },
+    {
       "title": "HIGHLIGHTS",
       "apiType": "hw",
       "colCell": "homevodcolcell",
@@ -29,6 +37,70 @@
           "values": [
             "UW1001"
           ]
+        }
+      ]
+    },
+    {
+      "title": "DEMONIC DISASTER",
+      "apiType": "nm00a",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "ID": "62412932",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202306/20230602/20230602031038132hys_op.jpg",
+          "name": "Jailangkung Sandekala"
+        },
+        {
+          "ID": "",
+          "action": "nothing",
+          "picture": "https://technave.com/data/files/mall/article/202006020653362979.jpg",
+          "name": "Unifi Promo"
+        },
+        {
+          "ID": "",
+          "action": "nothing",
+          "picture": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/merdeka-happy-merdeka-malaysia-independence-design-template-38555bc3f4decd7cadc54d5367d3d1c4_screen.jpg?ts=1636991910",
+          "name": "Petronas Promotion"
+        },
+        {
+          "ID": "",
+          "action": "nothing",
+          "picture": "https://apicms.thestar.com.my/uploads/images/2022/08/28/1715436.jpg",
+          "name": "Gardenia"
+        },
+        {
+          "ID": "61857010",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202304/20230404/202304040648239951nz_op.jpg",
+          "name": "M3gan"
+        },
+        {
+          "ID": "",
+          "action": "nothing",
+          "picture": "https://3.bp.blogspot.com/-BesyM7aPDHA/W_VxXXHwLBI/AAAAAAAALyA/weNt_XJx0_4ASw3PdVdOp9Pvk4dyQ_HKgCLcBGAs/s1600/DSC_1712ok.JPG",
+          "name": "Saji Mee"
+        },
+        {
+          "ID": "62703244",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202305/20230523/20230523095856186uor_op.jpg",
+          "name": "Scream VI"
+        },
+        {
+          "ID": "59719353",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202212/20221223/20221223080441187jee_op.jpg",
+          "name": "Smile"
+        },
+        {
+          "ID": "55565959",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202204/20220420/20220420090642342d68_op.jpg",
+          "name": "Scream (2022)"
         }
       ]
     },
@@ -47,22 +119,6 @@
           ]
         }
       ]
-    },
-    {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "11",
-      "count": "20"
-    },
-    {
-      "title": "MY PURCHASED LIBRARY",
-      "apiType": "hw00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0"
     },
     {
       "title": "RECOMMENDED MOVIES",
