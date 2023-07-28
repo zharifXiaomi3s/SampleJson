@@ -1,0 +1,23 @@
+{
+  "request": {
+    "PromoAdsStatus": true,
+    "PromoAds": [
+      {
+        "index": "1",
+        "title": "OTT Promo",
+        "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT4.png",
+        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo4.jpg",
+        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+        "promoStatus": true
+      },
+      {
+        "index": "2",
+        "title": "Unifi Promo",
+        "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
+        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
+        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+        "promoStatus": true
+      ]
+    ]
+  }
+}
