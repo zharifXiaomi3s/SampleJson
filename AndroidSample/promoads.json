@@ -13,6 +13,30 @@
       {
         "index": "2",
         "title": "Unifi Promo",
+        "BlurbPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202306/20230602/20230602031038132hys_op.jpg",
+        "PopUpPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202306/20230602/20230602031038132hys_op.jpg",
+        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+        "promoStatus": true
+      },
+      {
+        "index": "3",
+        "title": "Unifi Promo",
+        "BlurbPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202304/20230404/202304040648239951nz_op.jpg",
+        "PopUpPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202304/20230404/202304040648239951nz_op.jpg",
+        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+        "promoStatus": true
+      },
+      {
+        "index": "4",
+        "title": "Unifi Promo",
+        "BlurbPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202204/20220420/20220420090642342d68_op.jpg",
+        "PopUpPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202204/20220420/20220420090642342d68_op.jpg",
+        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+        "promoStatus": true
+      },
+      {
+        "index": "5",
+        "title": "Unifi Promo",
         "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
         "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
         "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
