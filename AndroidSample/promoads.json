@@ -8,13 +8,13 @@
         "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT4.png",
         "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo4.jpg",
         "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
-        "promoStatus": true
+        "promoStatus": false
       },
       {
         "index": "2",
         "title": "Unifi Promo",
-        "BlurbPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202306/20230602/20230602031038132hys_op.jpg",
-        "PopUpPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202306/20230602/20230602031038132hys_op.jpg",
+        "BlurbPoster": "https://frsied21.github.io/launcher/ezgif-2-440c01522e.gif",
+        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo6.jpg",
         "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
         "promoStatus": true
       },
@@ -24,7 +24,7 @@
         "BlurbPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202304/20230404/202304040648239951nz_op.jpg",
         "PopUpPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202304/20230404/202304040648239951nz_op.jpg",
         "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
-        "promoStatus": true
+        "promoStatus": false
       },
       {
         "index": "4",
@@ -32,7 +32,7 @@
         "BlurbPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202204/20220420/20220420090642342d68_op.jpg",
         "PopUpPoster": "http://playtv.unifi.com.my:7029/CPS/images/universal/film/poster/202204/20220420/20220420090642342d68_op.jpg",
         "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
-        "promoStatus": true
+        "promoStatus": false
       },
       {
         "index": "5",
@@ -40,7 +40,7 @@
         "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
         "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
         "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
-        "promoStatus": true
+        "promoStatus": false
       }
     ]
   }
