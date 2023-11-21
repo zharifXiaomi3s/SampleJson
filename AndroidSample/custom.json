@@ -57,6 +57,12 @@
       "count": "0",
       "customFields": [
         {
+          "ID": "https://www.iq.com/play/j9efp0lf24?sh_pltf=2&lang=en_us",
+          "action": "url_out",
+          "picture": "http://1.9.58.117:7000/CPS/images/universal/film/poster/202303/20230308/20230308021916184hv0_op.jpg",
+          "name": "The Divine Fury"
+        },
+        {
           "ID": "60449109",
           "action": "vod_in",
           "picture": "https://marketplace.canva.com/EAFKBlkPokE/1/0/1131w/canva-beige-yellow-modern-minimal-save-the-planet-campaign-poster-nJZWEeiuixo.jpg",
