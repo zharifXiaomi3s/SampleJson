@@ -84,7 +84,7 @@
         },
         {
           "ID": "https://www.iq.com/play/j9efp0lf24?sh_pltf=2&lang=en_us",
-          "appScheme": "OpenSampleB",
+          "appScheme": "OpenSampleB://",
           "action": "url_out",
           "picture": "http://1.9.58.117:7000/CPS/images/universal/film/poster/202303/20230308/20230308021916184hv0_op.jpg",
           "name": "Sample B"
