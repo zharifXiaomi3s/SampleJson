@@ -69,7 +69,7 @@
           "name": "Section 8"
         },
         {
-          "appScheme": "OpenSampleA",
+          "appScheme": "OpenSampleA://",
           "appStore": "https://apps.apple.com/my/app/disney-hotstar/id1524156685",
           "action": "url_out",
           "picture": "http://1.9.58.117:7000/CPS/images/universal/film/poster/202303/20230308/20230308021916184hv0_op.jpg",
