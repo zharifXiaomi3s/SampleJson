@@ -69,11 +69,24 @@
           "name": "Section 8"
         },
         {
+          "appScheme": "OpenSampleA",
+          "action": "url_out",
+          "picture": "http://1.9.58.117:7000/CPS/images/universal/film/poster/202303/20230308/20230308021916184hv0_op.jpg",
+          "name": "Sample A"
+        },
+        {
           "ID": "60828691",
           "channelID": "20000011",
           "action": "livetv_in",
           "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6klZedzG0sgUZswFV2gT7tucNVQc-8s7Qg&usqp=CAU",
           "name": "TV3"
+        },
+        {
+          "ID": "https://www.iq.com/play/j9efp0lf24?sh_pltf=2&lang=en_us",
+          "appScheme": "OpenSampleB",
+          "action": "url_out",
+          "picture": "http://1.9.58.117:7000/CPS/images/universal/film/poster/202303/20230308/20230308021916184hv0_op.jpg",
+          "name": "Sample B"
         },
         {
           "ID": "https://www.youtube.com/",
