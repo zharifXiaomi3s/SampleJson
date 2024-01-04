@@ -267,6 +267,18 @@
           "name": "iQIYI app"
         },
         {
+          "ID": "iqyinter://",
+          "action": "url_out",
+          "picture": "https://unifi.com.my/tv/sites/default/files/2022-12/iQIYI_1000x500-Nov_0.jpg",
+          "name": "iQIYI app"
+        },
+        {
+          "appScheme": "iqyinter://",
+          "action": "url_out",
+          "picture": "https://unifi.com.my/tv/sites/default/files/2022-12/iQIYI_1000x500-Nov_0.jpg",
+          "name": "iQIYI app"
+        },
+        {
           "ID": "https://apps.apple.com/us/app/mangotv/id1295034410",
           "action": "url_out",
           "picture": "https://cdn.soft112.com/mgtv-tv/00/00/0H/CH/00000HCHG4/pad_screenshot.jpg",
