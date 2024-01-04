@@ -279,9 +279,15 @@
           "name": "iQIYI app"
         },
         {
-          "ID": "https://apps.apple.com/us/app/mangotv/id1295034410",
+          "ID": "mgtvintl://",
           "action": "url_out",
-          "picture": "https://cdn.soft112.com/mgtv-tv/00/00/0H/CH/00000HCHG4/pad_screenshot.jpg",
+          "picture": "https://static.wixstatic.com/media/cb8f77_66cb3d4306f1421d98d3981419e2b9fb~mv2.jpg/v1/fit/w_960%2Ch_541%2Cal_c%2Cq_80,enc_auto/file.jpg",
+          "name": "Mango TV app"
+        },
+        {
+          "appScheme": "mgtvintl://",
+          "action": "url_out",
+          "picture": "https://static.wixstatic.com/media/cb8f77_66cb3d4306f1421d98d3981419e2b9fb~mv2.jpg/v1/fit/w_960%2Ch_541%2Cal_c%2Cq_80,enc_auto/file.jpg",
           "name": "Mango TV app"
         },
         {
