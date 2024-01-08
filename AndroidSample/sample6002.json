@@ -33,6 +33,185 @@
       ]
     },
     {
+      "title": "WHAT'S IN THE BOX?",
+      "apiType": "nm00a",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "ID": "65759111",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231107/20231107092615172hfn_op.jpg",
+          "name": "Mission: Impossible – Dead Reckoning Part One"
+        },
+        {
+          "ID": "65293422",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231021/202310211530201692fp_op.jpg",
+          "name": "Sosok Ketiga"
+        },
+        {
+          "ID": "66091334",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231122/20231122145325176roo_op.jpg",
+          "name": "The Equalizer 3"
+        },
+        {
+          "ID": "65570478",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231030/20231030012050828qlt_op.jpg",
+          "name": "Meg 2: The Trench"
+        },
+        {
+          "ID": "65759116",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231107/202311070936051726s9_op.jpg",
+          "name": "Blue Beetle"
+        },
+        {
+          "ID": "65459692",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231024/20231024135515829ws4_op.jpg",
+          "name": "Barbie"
+        },
+        {
+          "ID": "65734947",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231102/2023110208341091329i_op.jpg",
+          "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
+        },
+        {
+          "ID": "65811799",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231121/20231121111820849q0y_op.jpg",
+          "name": "The Nun II"
+        },
+        {
+          "ID": "54044627",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202201/20220129/20220129035409587lp6_op.jpg",
+          "name": "Spider-Man: Across The Spiderverse"
+        },
+        {
+          "ID": "64822661",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202309/20230927/20230927145920831l2p_op.jpg",
+          "name": "Insidious: The Red Door"
+        },
+        {
+          "ID": "64126092",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202308/20230822/20230822082410841lz0_op.jpg",
+          "name": "Transformers Rise of the Beasts"
+        }
+      ]
+    },
+    {
+      "title": "3rd Party OTT Shows",
+      "apiType": "nm00a",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "ID": "http://www.hotstar.com/1260053051",
+          "action": "url_out",
+          "picture": "https://blurzschyter.github.io/ligamlympics/vod-hotstar.png",
+          "name": "Ejen Ali"
+        },
+        {
+          "ID": "https://lionsgateplay.com/en/movies/-/351582759977#t",
+          "action": "url_out",
+          "picture": "https://blurzschyter.github.io/ligamlympics/vod-lionsgate.png",
+          "name": "Lamborghini"
+        },
+        {
+          "ID": "https://www.iflix.com/play/iun3qfzmdofxc4q/m00450tlfyo?ptag=5_5.6.3.5588_system",
+          "action": "url_out",
+          "picture": "https://blurzschyter.github.io/ligamlympics/vod-wetv.png",
+          "name": "A League of Nobleman"
+        },
+        {
+          "ID": "https://www.iq.com/play/xi37tuctgo?lang=en_us&sh_pltf=5",
+          "action": "url_out",
+          "picture": "https://blurzschyter.github.io/ligamlympics/vod-iqiyi.png",
+          "name": "Unchained Love"
+        },
+        {
+          "ID": "https://www.shemaroome.com/movies/khakee?share_url=true",
+          "action": "url_out",
+          "picture": "https://blurzschyter.github.io/ligamlympics/vod-shemaroome.png",
+          "name": "Khakee"
+        },
+        {
+          "ID": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6b86a3c-52ff-c98a-3bf8-7b7492b73392&territory=MY&ref_=share_ios_movie&r=web",
+          "action": "url_out",
+          "picture": "https://blurzschyter.github.io/ligamlympics/vod-amazonprime.png",
+          "name": "Central Intelligence"
+        }
+    },
+    {
+      "title": "VIDEO GAMES",
+      "apiType": "nm00a",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "ID": "65942514",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231115/20231115084315171085_op.jpg",
+          "name": "Gran Turismo: Based On A True Story"
+        },
+        {
+          "ID": "65734947",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231102/2023110208341091329i_op.jpg",
+          "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
+        },
+        {
+          "ID": "81450",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202205/20220508/20220508161318994q5s_op.jpg",
+          "name": "Ready Player One "
+        },
+        {
+          "ID": "63438851",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202307/20230704/20230704045103909lqe_op.jpg",
+          "name": "The Super Mario Bros. Movie"
+        },
+        {
+          "ID": "96798",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201909/20190923/20190923090123313n8o_op.jpg",
+          "name": "Pokémon Detective Pikachu"
+        },
+        {
+          "ID": "114052",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202005/20200519/20200519101243037rf7_op.jpg",
+          "name": "Sonic The Hedgehog"
+        },
+        {
+          "ID": "52790",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201907/20190722/20190722071658196leh_op.jpg",
+          "name": "The Angry Birds Movie 2"
+        },
+        {
+          "ID": "101799",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201912/20191202/20191202033103303om9_op.jpg",
+          "name": "The Angry Birds Movie"
+        }
+      ]
+    },
+    {
       "title": "NEW THIS WEEK",
       "apiType": "hw",
       "colCell": "homevodcolcell",
