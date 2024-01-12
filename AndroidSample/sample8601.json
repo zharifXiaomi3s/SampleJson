@@ -136,6 +136,8 @@
         },
         {
           "ID": "https://www.iq.com/play/xi37tuctgo?lang=en_us&sh_pltf=5",
+          "appScheme": "iqyinter://",
+          "appStore": "https://apps.apple.com/us/app/iqiyi-dramas-anime-shows/id1461999674",
           "action": "url_out",
           "picture": "https://blurzschyter.github.io/ligamlympics/vod-iqiyi.png",
           "name": "Unchained Love"
