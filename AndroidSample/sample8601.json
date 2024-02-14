@@ -17,8 +17,8 @@
       ]
     },
     {
-      "title": "HIGHLIGHTS",
-      "apiType": "hw",
+      "title": "Special VODs",
+      "apiType": "",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -235,14 +235,6 @@
       ]
     },
     {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "11",
-      "count": "0"
-    },
-    {
       "title": "RECOMMENDED MOVIES",
       "apiType": "hw",
       "colCell": "homevodcolcell",
@@ -259,38 +251,6 @@
       ]
     },
     {
-      "title": "RECOMMENDED SERIES",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "G2001"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "KIDS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "G2003"
-          ]
-        }
-      ]
-    },
-    {
       "title": "BBC FIRST HD",
       "apiType": "hw",
       "colCell": "homevodcolcell",
@@ -302,22 +262,6 @@
           "key": "subjectID",
           "values": [
             "G3002"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "INFO",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "G2002"
           ]
         }
       ]
