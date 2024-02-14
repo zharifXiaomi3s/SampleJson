@@ -18,7 +18,7 @@
     },
     {
       "title": "Special VODs",
-      "apiType": "",
+      "apiType": "hw",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
