@@ -22,7 +22,7 @@
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
-      "count": "0",
+      "count": "9",
       "extensionFields": [
         {
           "key": "subjectID",
@@ -43,8 +43,7 @@
           "ID": "65293422",
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231021/202310211530201692fp_op.jpg",
-          "name": "Sosok Ketiga",
-          "position": 8,
+          "name": "Sosok Ketiga"
         },
       ]
     },
