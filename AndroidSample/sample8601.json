@@ -19,7 +19,7 @@
     {
       "title": "Special VODs",
       "apiType": "nm00c",
-      "colCell": "homevodcolcell",
+      "colCell": "homepartnercolcell",
       "showMore": "1",
       "type": "3",
       "count": "5",
