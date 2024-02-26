@@ -1,22 +1,6 @@
 {
   "request": [
     {
-      "title": "BANNER",
-      "apiType": "hw",
-      "colCell": "bannercolcell",
-      "showMore": "0",
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "G1001"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Special VODs",
       "apiType": "nm00c",
       "colCell": "bannercolcell",
@@ -35,7 +19,7 @@
         {
           "ID": "65759111",
           "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231107/20231107092615172hfn_op.jpg",
+          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202311/20231108/202311080728451698qv_op.jpg",
           "name": "Mission: Impossible – Dead Reckoning Part One"
         },
         {
