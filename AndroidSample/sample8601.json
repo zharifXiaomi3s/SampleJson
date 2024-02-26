@@ -1,8 +1,8 @@
 {
   "request": [
     {
-      "title": "Special VODs",
-      "apiType": "nm00c",
+      "title": "BANNER",
+      "apiType": "hw",
       "colCell": "bannercolcell",
       "showMore": "1",
       "type": "3",
