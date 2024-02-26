@@ -38,6 +38,44 @@
       ]
     },
     {
+      "title": "Special VODs",
+      "apiType": "nm00c",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "5",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "G2005"
+          ]
+        }
+      ],
+      "customFields": [
+        {
+          "ID": "65759111",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202311/20231108/202311080728451698qv_op.jpg",
+          "name": "Mission: Impossible – Dead Reckoning Part One",
+          "position": 5
+        },
+        {
+          "ID": "65570478",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231030/20231030012050828qlt_op.jpg",
+          "name": "Meg 2: The Trench",
+          "position": 2
+        },
+        {
+          "ID": "65293422",
+          "action": "vod_in",
+          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231021/202310211530201692fp_op.jpg",
+          "name": "Sosok Ketiga"
+        },
+      ]
+    },
+    {
       "title": "WHAT'S IN THE BOX?",
       "apiType": "nm00a",
       "colCell": "homevodcolcell",
