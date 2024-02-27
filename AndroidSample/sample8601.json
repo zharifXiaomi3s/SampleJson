@@ -2,7 +2,7 @@
   "request": [
     {
       "title": "BANNER",
-      "apiType": "hw",
+      "apiType": "nm00c",
       "colCell": "bannercolcell",
       "showMore": "1",
       "type": "3",
