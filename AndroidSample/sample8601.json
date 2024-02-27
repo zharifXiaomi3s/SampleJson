@@ -21,14 +21,14 @@
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202301/20230105/20230105092133995vih_op.jpg",
           "name": "Raiders of the Lost Ark",
-          "intro": "Ini cerita Indiana Jones"
+          "introduce": "Ini cerita Indiana Jones"
         },
         {
           "ID": "67892",
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202205/20220508/20220508034228994bdh_op.jpg",
           "name": "The Mummy (2017)",
-          "intro": "Ini cerita The Mummy versi Tom Cruise",
+          "introduce": "Ini cerita The Mummy versi Tom Cruise",
           "position": 2
         },
         {
