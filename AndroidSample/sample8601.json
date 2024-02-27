@@ -42,7 +42,8 @@
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202402/20240215/20240215031002399eh1_op.jpg",
           "name": "The Blackening Z",
-          "introduce": "Seven friends go away for the weekend and end up trapped in a cabin with a killer who has a vendetta. Will their street smarts and knowledge of horror movies help them stay alive? Probably not."
+          "introduce": "Seven friends go away for the weekend and end up trapped in a cabin with a killer who has a vendetta. Will their street smarts and knowledge of horror movies help them stay alive? Probably not.",
+          "position": 0
         }
       ]
     },
