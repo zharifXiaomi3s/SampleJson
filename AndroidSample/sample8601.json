@@ -36,7 +36,7 @@
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202106/20210617/20210617050551846js8_op.jpg",
           "name": "The Mummy ('99)"
-        },
+        }
       ]
     },
     {
@@ -75,7 +75,7 @@
           "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202309/20230904/20230904062758442iuh_op.jpg",
           "name": "Maya Mila",
           "position": 2
-        },
+        }
       ]
     },
     {
