@@ -1,0 +1,16 @@
+{
+  "config": [
+    {
+      "values": [
+        "launcher_NM_NORMAL|{\"IPTV\":\"https://nmhub.hypp.tv/V6Launcher/iOSCustom/launcherNM_6001_normal.json\",\"TVOS\":\"https://nmhub.hypp.tv/V6Launcher/iOSCustom/launcherNM_6002_normal.json\",\"HESA\":\"https://nmhub.hypp.tv/V6Launcher/iOSCustom/launcherNM_6003_normal.json\",\"GUEST\":\"https://nmhub.hypp.tv/V6Launcher/iOSCustom/launcherNM_8601_normal.json\",\"VERSION\":\"26022024\"}"
+      ],
+      "key": "OTTLAUNCHER_NM_JSON"
+    },
+    {
+      "values": [
+        "{\"MAINURL\":\"https://zharifxiaomi3s.github.io/SampleJson/AndroidSample/PlistConfig.plist\",\"VERSION\":\"26022024\"}"
+      ],
+      "key": "OTTCONFIG_NM_PLIST"
+    }
+  ]
+}
