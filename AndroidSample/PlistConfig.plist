@@ -18,7 +18,7 @@
 			<key>itemPerRowCommon</key>
 			<real>3.25</real>
 			<key>interGroupSpacing</key>
-			<integer>0</integer>
+			<integer>8</integer>
 			<key>rowHeight</key>
 			<integer>180</integer>
 		</dict>
