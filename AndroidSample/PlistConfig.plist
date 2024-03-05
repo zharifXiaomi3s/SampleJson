@@ -7,7 +7,16 @@
 		<key>bannerColCell</key>
 		<dict>
 			<key>itemPerRowCommon</key>
-			<integer>4</integer>
+			<integer>1</integer>
+			<key>interGroupSpacing</key>
+			<integer>0</integer>
+			<key>rowHeight</key>
+			<integer>180</integer>
+		</dict>
+		<key>vodColCell</key>
+		<dict>
+			<key>itemPerRowCommon</key>
+			<integer>3.25</integer>
 		</dict>
 	</dict>
 	<key>homePageIpad</key>
