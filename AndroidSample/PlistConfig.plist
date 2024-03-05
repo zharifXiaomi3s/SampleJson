@@ -16,7 +16,7 @@
 		<key>vodColCell</key>
 		<dict>
 			<key>itemPerRowCommon</key>
-			<integer>3.25</integer>
+			<real>3.25</real>
 		</dict>
 	</dict>
 	<key>homePageIpad</key>
