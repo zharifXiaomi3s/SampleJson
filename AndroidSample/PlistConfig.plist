@@ -17,6 +17,10 @@
 		<dict>
 			<key>itemPerRowCommon</key>
 			<real>3.25</real>
+			<key>interGroupSpacing</key>
+			<integer>0</integer>
+			<key>rowHeight</key>
+			<integer>180</integer>
 		</dict>
 	</dict>
 	<key>homePageIpad</key>
