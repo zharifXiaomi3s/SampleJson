@@ -133,7 +133,7 @@
     },
     {
       "title": "NEW THIS WEEK",
-      "apiType": "hw",
+      "apiType": "nm00b",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "type": "3",
@@ -144,6 +144,14 @@
           "values": [
             "G5002"
           ]
+        }
+      ],
+      "customFields": [
+        {
+          "ID": "65878688"
+        },
+        {
+          "ID": "67172399"
         }
       ]
     },
