@@ -2,7 +2,7 @@
   "request": [
     {
       "title": "BANNER",
-      "apiType": "nm00c",
+      "apiType": "hw",
       "colCell": "bannercolcell",
       "showMore": "1",
       "type": "3",
@@ -13,37 +13,6 @@
           "values": [
             "G1001"
           ]
-        }
-      ],
-      "customFields": [
-        {
-          "ID": "60246198",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202301/20230105/20230105092133995vih_op.jpg",
-          "name": "Raiders of the Lost Ark",
-          "introduce": "Ini cerita Indiana Jones"
-        },
-        {
-          "ID": "67892",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202205/20220508/20220508034228994bdh_op.jpg",
-          "name": "The Mummy (2017)",
-          "introduce": "Ini cerita The Mummy versi Tom Cruise",
-          "position": 2
-        },
-        {
-          "ID": "40851",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202106/20210617/20210617050551846js8_op.jpg",
-          "name": "The Mummy ('99)"
-        },
-        {
-          "ID": "67044271",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202402/20240215/20240215031002399eh1_op.jpg",
-          "name": "The Blackening Z",
-          "introduce": "Seven friends go away for the weekend and end up trapped in a cabin with a killer who has a vendetta. Will their street smarts and knowledge of horror movies help them stay alive? Probably not.",
-          "position": 0
         }
       ]
     },
@@ -163,116 +132,6 @@
       ]
     },
     {
-      "title": "3rd Party OTT Shows",
-      "apiType": "nm00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "ID": "https://s.iq.com/oycew",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-iqiyi-rampascintaku.jpg",
-          "name": "Rampas Cintaku"
-        },
-        {
-          "ID": "https://s.iq.com/oycew",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-iqiyi-unchainedlove.jpg",
-          "name": "Unchained Love"
-        },
-        {
-          "ID": "https://www.tvbanywhere.com/promo",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-tvbanywhere+-thequeenofnews.jpg",
-          "name": "The QUEEN Of News"
-        },
-        {
-          "ID": "https://www.tvbanywhere.com/promo",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-tvbanywhere+-theairportdiary.jpg",
-          "name": "The Airport Diary"
-        },
-        {
-          "ID": "67021008",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202401/20240110/20240110063358752r9a_op.jpg",
-          "name": "Echoes of the Thunder 速戰"
-        },
-        {
-          "ID": "65874503",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202311/20231108/202311081031158339ti_op.jpg",
-          "name": "Ace VS Ace"
-        },
-        {
-          "ID": "67044314",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202401/20240113/20240113111615829a11_op.jpg",
-          "name": "Mr. Funnybone Strikes Again 老夫子奇趣錄"
-        }
-      ]
-    },
-    {
-      "title": "VIDEO GAMES",
-      "apiType": "nm00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "ID": "65942514",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231115/20231115084315171085_op.jpg",
-          "name": "Gran Turismo: Based On A True Story"
-        },
-        {
-          "ID": "65734947",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231102/2023110208341091329i_op.jpg",
-          "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
-        },
-        {
-          "ID": "81450",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202205/20220508/20220508161318994q5s_op.jpg",
-          "name": "Ready Player One "
-        },
-        {
-          "ID": "63438851",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202307/20230704/20230704045103909lqe_op.jpg",
-          "name": "The Super Mario Bros. Movie"
-        },
-        {
-          "ID": "96798",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201909/20190923/20190923090123313n8o_op.jpg",
-          "name": "Pokémon Detective Pikachu"
-        },
-        {
-          "ID": "114052",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202005/20200519/20200519101243037rf7_op.jpg",
-          "name": "Sonic The Hedgehog"
-        },
-        {
-          "ID": "52790",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201907/20190722/20190722071658196leh_op.jpg",
-          "name": "The Angry Birds Movie 2"
-        },
-        {
-          "ID": "101799",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201912/20191202/20191202033103303om9_op.jpg",
-          "name": "The Angry Birds Movie"
-        }
-      ]
-    },
-    {
       "title": "NEW THIS WEEK",
       "apiType": "hw",
       "colCell": "homevodcolcell",
@@ -326,7 +185,7 @@
       "colCell": "homechannelcolcell",
       "showMore": "1",
       "type": "9",
-      "count": "50",
+      "count": "7",
       "isLastRow": true
     }
   ]
