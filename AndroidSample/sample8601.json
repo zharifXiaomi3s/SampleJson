@@ -86,48 +86,6 @@
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231030/20231030012050828qlt_op.jpg",
           "name": "Meg 2: The Trench"
-        },
-        {
-          "ID": "65759116",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231107/202311070936051726s9_op.jpg",
-          "name": "Blue Beetle"
-        },
-        {
-          "ID": "65459692",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231024/20231024135515829ws4_op.jpg",
-          "name": "Barbie"
-        },
-        {
-          "ID": "65734947",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231102/2023110208341091329i_op.jpg",
-          "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
-        },
-        {
-          "ID": "65811799",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231121/20231121111820849q0y_op.jpg",
-          "name": "The Nun II"
-        },
-        {
-          "ID": "54044627",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202201/20220129/20220129035409587lp6_op.jpg",
-          "name": "Spider-Man: Across The Spiderverse"
-        },
-        {
-          "ID": "64822661",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202309/20230927/20230927145920831l2p_op.jpg",
-          "name": "Insidious: The Red Door"
-        },
-        {
-          "ID": "64126092",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202308/20230822/20230822082410841lz0_op.jpg",
-          "name": "Transformers Rise of the Beasts"
         }
       ]
     },
