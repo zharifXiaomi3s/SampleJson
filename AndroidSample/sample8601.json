@@ -58,6 +58,57 @@
       ]
     },
     {
+      "title": "NM00D Development",
+      "apiType": "nm00d",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "channelID": "20000021",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
+          "name": "Tazza: One Eyed Jack",
+          "timeStart": "20240513100500",
+          "timeEnd": "20240513122500"
+        },
+        {
+          "channelID": "20000021",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
+          "name": "Dr. Cheon And The Lost Talisman",
+          "timeStart": "20240513185000",
+          "timeEnd": "20240513203500"
+        },
+        {
+          "channelID": "54185493",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
+          "name": "UFC Fight Night: Lewis vs. Nascimento",
+          "timeStart": "20240514010000",
+          "timeEnd": "20240514035500"
+        },
+        {
+          "channelID": "20000109",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
+          "name": "2024 LIV Golf League SINGAPORE",
+          "timeStart": "20240514050000",
+          "timeEnd": "20240514060000"
+        }
+      ]
+    },
+    {
       "title": "WHAT'S IN THE BOX?",
       "apiType": "nm00a",
       "colCell": "homevodcolcell",
