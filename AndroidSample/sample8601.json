@@ -105,6 +105,16 @@
           "name": "2024 LIV Golf League SINGAPORE",
           "timeStart": "20240514050000",
           "timeEnd": "20240514060000"
+        },
+        {
+          "channelID": "20000109",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
+          "name": "2024 LIV Tennis MALAYSIA",
+          "timeStart": "20240513143000",
+          "timeEnd": "20240513151500"
         }
       ]
     },
