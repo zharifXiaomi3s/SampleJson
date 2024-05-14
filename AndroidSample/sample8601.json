@@ -73,8 +73,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240513100500",
-          "timeEnd": "20240516122500"
+          "timeStart": "20240513 100500",
+          "timeEnd": "20240516 122500"
         },
         {
           "channelID": "20000021",
@@ -83,8 +83,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
           "name": "Dr. Cheon And The Lost Talisman",
-          "timeStart": "20240513185000",
-          "timeEnd": "20240513203500"
+          "timeStart": "20240512 185000",
+          "timeEnd": "20240515 203500"
         },
         {
           "channelID": "54185493",
@@ -93,8 +93,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
           "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240514010000",
-          "timeEnd": "20240514035500"
+          "timeStart": "20240514 010000",
+          "timeEnd": "20240514 235500"
         },
         {
           "channelID": "20000109",
@@ -103,8 +103,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
           "name": "2024 LIV Golf League SINGAPORE",
-          "timeStart": "20240514050000",
-          "timeEnd": "20240514060000"
+          "timeStart": "20240516 140000",
+          "timeEnd": "20240516 154000"
         },
         {
           "channelID": "20000109",
@@ -113,8 +113,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
           "name": "2024 LIV Tennis MALAYSIA",
-          "timeStart": "20240513143000",
-          "timeEnd": "20240513151500"
+          "timeStart": "20240517 143000",
+          "timeEnd": "20240518 151500"
         }
       ]
     },
