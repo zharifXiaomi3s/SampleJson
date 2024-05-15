@@ -73,8 +73,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240513 100500",
-          "timeEnd": "20240516 122500"
+          "timeStart": "20240515 160500",
+          "timeEnd": "20240515 161700"
         },
         {
           "channelID": "20000021",
@@ -93,8 +93,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
           "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240514 010000",
-          "timeEnd": "20240514 235500"
+          "timeStart": "20240515 163000",
+          "timeEnd": "20240515 170500"
         },
         {
           "channelID": "20000109",
