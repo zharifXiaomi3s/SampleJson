@@ -4,62 +4,35 @@
       "title": "BANNER",
       "apiType": "hw",
       "colCell": "bannercolcell",
-      "showMore": "1",
+      "showMore": "0",
       "isMore": false,
       "type": "3",
-      "count": "6",
+      "count": "10",
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G1001"
-          ]
+          "values": ["G1001"]
         }
       ]
     },
     {
-      "title": "Special VODs",
-      "apiType": "nm00c",
+      "title": "HIGHLIGHTS",
+      "apiType": "hw",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "isMore": true,
       "type": "3",
-      "count": "7",
+      "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G2005"
-          ]
-        }
-      ],
-      "customFields": [
-        {
-          "ID": "64462377",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202308/20230824/20230824190125071lhp_op.jpg",
-          "name": "Playboy Dimindaku",
-          "position": 0
-        },
-        {
-          "ID": "64609010",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202309/20230904/20230904062758442iuh_op.jpg",
-          "name": "Maya Mila",
-          "position": 2
-        },
-        {
-          "ID": "64094160",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7036/CPS/images/universal/film/poster/202309/20230905/202309050432151759qd_op.jpg",
-          "name": "Bini Muda",
-          "position": 3
+          "values": ["G1001"]
         }
       ]
     },
     {
-      "title": "NM00D Development",
-      "apiType": "nm00d",
+      "title": "LIVE EVENTS",
+      "apiType": "nm00a",
       "colCell": "homevodcolcell",
       "showMore": "0",
       "isMore": false,
@@ -73,8 +46,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240515 160500",
-          "timeEnd": "20240515 164500"
+          "timeStart": "20240519 100500",
+          "timeEnd": "20240519 122500"
         },
         {
           "channelID": "20000021",
@@ -83,8 +56,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
           "name": "Dr. Cheon And The Lost Talisman",
-          "timeStart": "20240512 185000",
-          "timeEnd": "20240515 203500"
+          "timeStart": "20240520 205000",
+          "timeEnd": "20240520 223500"
         },
         {
           "channelID": "54185493",
@@ -93,8 +66,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
           "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240515 162200",
-          "timeEnd": "20240515 170500"
+          "timeStart": "20240520 100000",
+          "timeEnd": "20240520 105500"
         },
         {
           "channelID": "20000109",
@@ -103,59 +76,44 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
           "name": "2024 LIV Golf League SINGAPORE",
-          "timeStart": "20240516 140000",
-          "timeEnd": "20240516 154000"
+          "timeStart": "20240520 103000",
+          "timeEnd": "20240520 113000"
         },
         {
-          "channelID": "20000109",
+          "channelID": "55456338",
           "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
-          "name": "2024 LIV Tennis MALAYSIA",
-          "timeStart": "20240517 143000",
-          "timeEnd": "20240518 151500"
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
+          "name": "Premier Padel 2024 Live",
+          "timeStart": "20240521 220000",
+          "timeEnd": "20240521 233000"
+        },
+        {
+          "channelID": "51882833",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
+          "name": "Fantasy Island (Season 2)",
+          "timeStart": "20240521 135500",
+          "timeEnd": "20240521 144500"
+        },
+        {
+          "channelID": "99999999",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
+          "name": "Jendela Global",
+          "timeStart": "20240520 203500",
+          "timeEnd": "20240521 204500"
         }
       ]
     },
     {
-      "title": "WHAT'S IN THE BOX?",
-      "apiType": "nm00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "isMore": false,
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "ID": "65759111",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231107/20231107092615172hfn_op.jpg",
-          "name": "Mission: Impossible – Dead Reckoning Part One"
-        },
-        {
-          "ID": "65293422",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231021/202310211530201692fp_op.jpg",
-          "name": "Sosok Ketiga"
-        },
-        {
-          "ID": "66091334",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231122/20231122145325176roo_op.jpg",
-          "name": "The Equalizer 3"
-        },
-        {
-          "ID": "65570478",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231030/20231030012050828qlt_op.jpg",
-          "name": "Meg 2: The Trench"
-        }
-      ]
-    },
-    {
-      "title": "NEW THIS WEEK",
-      "apiType": "nm00b",
+      "title": "BLOCKBUSTER MOVIE DEALS",
+      "apiType": "hw",
       "colCell": "homevodcolcell",
       "showMore": "1",
       "isMore": true,
@@ -164,19 +122,48 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G5002"
-          ]
-        }
-      ],
-      "customFields": [
-        {
-          "ID": "65878688"
-        },
-        {
-          "ID": "67172399"
+          "values": ["G1013"]
         }
       ]
+    },
+    {
+      "title": "OTT HIGHLIGHTS",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "3",
+      "count": "12",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["G5006"]
+        }
+      ]
+    },
+    {
+      "title": "NEW THIS WEEK",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "3",
+      "count": "12",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["G5002"]
+        }
+      ]
+    },
+    {
+      "title": "CONTINUE WATCHING",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "isMore": false,
+      "type": "11",
+      "count": "0"
     },
     {
       "title": "RECOMMENDED MOVIES",
@@ -189,9 +176,37 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G2005"
-          ]
+          "values": ["G2005"]
+        }
+      ]
+    },
+    {
+      "title": "RECOMMENDED SERIES",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "3",
+      "count": "12",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["G2001"]
+        }
+      ]
+    },
+    {
+      "title": "KIDS",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "3",
+      "count": "12",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["G2003"]
         }
       ]
     },
@@ -206,9 +221,22 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G3002"
-          ]
+          "values": ["G3002"]
+        }
+      ]
+    },
+    {
+      "title": "INFO",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "3",
+      "count": "12",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["G2002"]
         }
       ]
     },
@@ -219,7 +247,7 @@
       "showMore": "1",
       "isMore": true,
       "type": "9",
-      "count": "9",
+      "count": "50",
       "isLastRow": true
     }
   ]
