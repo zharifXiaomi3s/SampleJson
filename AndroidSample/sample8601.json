@@ -32,7 +32,7 @@
     },
     {
       "title": "LIVE EVENTS",
-      "apiType": "nm00a",
+      "apiType": "nm00d",
       "colCell": "homevodcolcell",
       "showMore": "0",
       "isMore": false,
@@ -46,8 +46,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240519 100500",
-          "timeEnd": "20240519 122500"
+          "timeStart": "20240520 100500",
+          "timeEnd": "20240520 111000"
         },
         {
           "channelID": "20000021",
