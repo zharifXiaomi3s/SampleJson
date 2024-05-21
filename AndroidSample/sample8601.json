@@ -46,8 +46,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240520 161000",
-          "timeEnd": "20240520 162000"
+          "timeStart": "20240521 110000",
+          "timeEnd": "20240521 162000"
         },
         {
           "channelID": "20000021",
@@ -56,8 +56,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
           "name": "Dr. Cheon And The Lost Talisman",
-          "timeStart": "20240520 124800",
-          "timeEnd": "20240520 162500"
+          "timeStart": "20240521 110000",
+          "timeEnd": "20240521 162500"
         },
         {
           "channelID": "54185493",
@@ -77,7 +77,7 @@
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
           "name": "2024 LIV Golf League SINGAPORE",
           "timeStart": "20240520 103000",
-          "timeEnd": "20240520 163000"
+          "timeEnd": "20240522 163000"
         },
         {
           "channelID": "55456338",
@@ -87,7 +87,7 @@
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
           "name": "Premier Padel 2024 Live",
           "timeStart": "20240520 163000",
-          "timeEnd": "20240520 160000"
+          "timeEnd": "20240522 160000"
         },
         {
           "channelID": "51882833",
@@ -97,7 +97,7 @@
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
           "name": "Fantasy Island (Season 2)",
           "timeStart": "20240520 135500",
-          "timeEnd": "20240520 164500"
+          "timeEnd": "20240523 164500"
         },
         {
           "channelID": "99999999",
