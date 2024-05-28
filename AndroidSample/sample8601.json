@@ -16,21 +16,6 @@
       ]
     },
     {
-      "title": "HIGHLIGHTS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G1001"]
-        }
-      ]
-    },
-    {
       "title": "LIVE EVENTS",
       "apiType": "nm00e",
       "colCell": "homevodcolcell",
@@ -46,7 +31,7 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240528 160000",
+          "timeStart": "20240528 171500",
           "timeEnd": "20240528 164000"
         },
         {
@@ -56,8 +41,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
           "name": "Dr. Cheon And The Lost Talisman",
-          "timeStart": "20240528 164000",
-          "timeEnd": "20240528 170000"
+          "timeStart": "20240528 171500",
+          "timeEnd": "20240528 172500"
         },
         {
           "channelID": "54185493",
@@ -66,7 +51,7 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
           "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240528 164500",
+          "timeStart": "20240528 173500",
           "timeEnd": "20240528 205900"
         },
         {
@@ -76,29 +61,14 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
           "name": "2024 LIV Golf League SINGAPORE",
-          "timeStart": "20240528 103000",
-          "timeEnd": "20240528 164000"
-        }
-      ]
-    },
-    {
-      "title": "BLOCKBUSTER MOVIE DEALS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G1013"]
+          "timeStart": "20240528 171500",
+          "timeEnd": "20240528 184000"
         }
       ]
     },
     {
       "title": "SAmpel EVENTS",
-      "apiType": "nm00a",
+      "apiType": "nm00d",
       "colCell": "homevodcolcell",
       "showMore": "0",
       "isMore": false,
@@ -112,8 +82,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240520 161000",
-          "timeEnd": "20240520 162000"
+          "timeStart": "20240528 171500",
+          "timeEnd": "20240528 182000"
         },
         {
           "channelID": "20000021",
@@ -122,8 +92,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
           "name": "Dr. Cheon And The Lost Talisman",
-          "timeStart": "20240520 124800",
-          "timeEnd": "20240520 162500"
+          "timeStart": "20240528 173000",
+          "timeEnd": "20240528 180000"
         },
         {
           "channelID": "54185493",
@@ -132,162 +102,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
           "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240520 100000",
-          "timeEnd": "20240520 105900"
-        },
-        {
-          "channelID": "20000109",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
-          "name": "2024 LIV Golf League SINGAPORE",
-          "timeStart": "20240520 103000",
-          "timeEnd": "20240520 163000"
-        },
-        {
-          "channelID": "55456338",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
-          "name": "Premier Padel 2024 Live",
-          "timeStart": "20240520 163000",
-          "timeEnd": "20240520 160000"
-        },
-        {
-          "channelID": "51882833",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
-          "name": "Fantasy Island (Season 2)",
-          "timeStart": "20240520 135500",
-          "timeEnd": "20240520 164500"
-        },
-        {
-          "channelID": "99999999",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
-          "name": "Jendela Global",
-          "timeStart": "20240520 203500",
-          "timeEnd": "20240520 204500"
-        }
-      ]
-    },
-    {
-      "title": "OTT HIGHLIGHTS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G5006"]
-        }
-      ]
-    },
-    {
-      "title": "NEW THIS WEEK",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G5002"]
-        }
-      ]
-    },
-    {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "isMore": false,
-      "type": "11",
-      "count": "0"
-    },
-    {
-      "title": "RECOMMENDED MOVIES",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G2005"]
-        }
-      ]
-    },
-    {
-      "title": "RECOMMENDED SERIES",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G2001"]
-        }
-      ]
-    },
-    {
-      "title": "KIDS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G2003"]
-        }
-      ]
-    },
-    {
-      "title": "BBC FIRST HD",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G3002"]
-        }
-      ]
-    },
-    {
-      "title": "INFO",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["G2002"]
+          "timeStart": "20240528 181500",
+          "timeEnd": "20240528 190000"
         }
       ]
     },
