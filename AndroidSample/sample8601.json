@@ -32,7 +32,7 @@
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
           "timeStart": "20240529 143500",
-          "timeEnd": "20240529 144500"
+          "timeEnd": "20240529 154500"
         },
         {
           "channelID": "20000021",
@@ -51,7 +51,7 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
           "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240529 142900",
+          "timeStart": "20240529 152900",
           "timeEnd": "20240529 155700"
         },
         {
@@ -61,8 +61,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
           "name": "2024 LIV Golf League SINGAPORE",
-          "timeStart": "20240529 140000",
-          "timeEnd": "20240529 144500"
+          "timeStart": "20240529 150000",
+          "timeEnd": "20240529 154500"
         }
       ]
     },
