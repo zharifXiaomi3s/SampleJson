@@ -61,8 +61,9 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
           "name": "2024 LIV Golf League SINGAPORE",
-          "timeStart": "20240529 150000",
-          "timeEnd": "20240529 154500"
+          "timeStart": "20240529 161000",
+          "timeEnd": "20240529 164500",
+          "playbillID": "69552373"
         }
       ]
     },
