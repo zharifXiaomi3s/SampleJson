@@ -17,58 +17,6 @@
     },
     {
       "title": "LIVE EVENTS",
-      "apiType": "nm00e",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "isMore": false,
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "channelID": "20000021",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
-          "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240529 143500",
-          "timeEnd": "20240529 154500"
-        },
-        {
-          "channelID": "20000021",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
-          "name": "Dr. Cheon And The Lost Talisman",
-          "timeStart": "20240529 142500",
-          "timeEnd": "20240529 153500"
-        },
-        {
-          "channelID": "54185493",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
-          "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240529 152900",
-          "timeEnd": "20240529 155700"
-        },
-        {
-          "channelID": "20000109",
-          "action": "livetv_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
-          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
-          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
-          "name": "2024 LIV Golf League SINGAPORE",
-          "timeStart": "20240529 161000",
-          "timeEnd": "20240529 164500",
-          "playbillID": "69552373"
-        }
-      ]
-    },
-    {
-      "title": "SAmpel EVENTS",
       "apiType": "nm00d",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -83,8 +31,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
           "name": "Tazza: One Eyed Jack",
-          "timeStart": "20240529 141000",
-          "timeEnd": "20240529 155000"
+          "timeStart": "20240530 143500",
+          "timeEnd": "20240530 154500"
         },
         {
           "channelID": "20000021",
@@ -93,8 +41,8 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
           "name": "Dr. Cheon And The Lost Talisman",
-          "timeStart": "20240529 145000",
-          "timeEnd": "20240529 155500"
+          "timeStart": "20240530 142500",
+          "timeEnd": "20240530 153500"
         },
         {
           "channelID": "54185493",
@@ -103,8 +51,60 @@
           "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
           "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
           "name": "UFC Fight Night: Lewis vs. Nascimento",
-          "timeStart": "20240529 144000",
-          "timeEnd": "20240529 155200"
+          "timeStart": "20240530 152900",
+          "timeEnd": "20240530 155700"
+        },
+        {
+          "channelID": "20000109",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
+          "name": "2024 LIV Golf League SINGAPORE",
+          "timeStart": "20240530 161000",
+          "timeEnd": "20240530 164500",
+          "playbillID": "69552373"
+        }
+      ]
+    },
+    {
+      "title": "SAmpel EVENTS",
+      "apiType": "nm00e",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "channelID": "20000021",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
+          "name": "Tazza: One Eyed Jack",
+          "timeStart": "20240530 141000",
+          "timeEnd": "20240530 155000"
+        },
+        {
+          "channelID": "20000021",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
+          "name": "Dr. Cheon And The Lost Talisman",
+          "timeStart": "20240530 145000",
+          "timeEnd": "20240530 155500"
+        },
+        {
+          "channelID": "54185493",
+          "action": "livetv_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-poster.jpg",
+          "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
+          "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
+          "name": "UFC Fight Night: Lewis vs. Nascimento",
+          "timeStart": "20240530 144000",
+          "timeEnd": "20240530 155200"
         }
       ]
     },
