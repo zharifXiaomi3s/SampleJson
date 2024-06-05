@@ -3,6 +3,38 @@
     {
       "title": "SAMPLE",
       "apiType": "hw",
+      "colCell": "bannercolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "4",
+      "count": "10",
+      "extensionFields": [
+      {
+        "key": "subjectID",
+        "values": [
+          "G0011"
+        ]
+      }]
+    },
+    {
+      "title": "SAMPLE 2",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "4",
+      "count": "10",
+      "extensionFields": [
+      {
+        "key": "subjectID",
+        "values": [
+          "G0011"
+        ]
+      }]
+    },
+    {
+      "title": "SAMPLE",
+      "apiType": "hw",
       "colCell": "homechannelcolcell",
       "showMore": "1",
       "isMore": true,
