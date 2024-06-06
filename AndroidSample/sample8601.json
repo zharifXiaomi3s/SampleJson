@@ -1,18 +1,18 @@
 {
   "request": [
     {
-      "title": "SAMPLE",
+      "title": "BANNER",
       "apiType": "hw",
       "colCell": "bannercolcell",
       "showMore": "1",
       "isMore": true,
-      "type": "4",
+      "type": "3",
       "count": "10",
       "extensionFields": [
       {
         "key": "subjectID",
         "values": [
-          "G0011"
+          "G1001"
         ]
       }]
     },
