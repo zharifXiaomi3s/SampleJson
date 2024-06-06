@@ -17,6 +17,22 @@
       }]
     },
     {
+      "title": "Partner",
+      "apiType": "hw",
+      "colCell": "HomePartnerColCell",
+      "showMore": "0",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "G1001"
+          ]
+        }
+      ]
+    },
+    {
       "title": "SAMPLE 2",
       "apiType": "hw",
       "colCell": "homevodcolcell",
