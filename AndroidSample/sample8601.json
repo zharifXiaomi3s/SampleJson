@@ -4,7 +4,7 @@
       "title": "BANNER",
       "apiType": "nm00a",
       "action": "0",
-      "colCell": "bannercolcell",
+      "colCell": "homechannelcolcell",
       "showMore": "0",
       "type": "4",
       "count": "0",
@@ -173,7 +173,7 @@
       "title": "LIVE TV",
       "apiType": "hw",
       "action": "0",
-      "colCell": "homechannelcolcell",
+      "colCell": "bannercolcell",
       "showMore": "1",
       "type": "9",
       "count": "50"
