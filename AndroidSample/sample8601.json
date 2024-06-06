@@ -19,7 +19,7 @@
     {
       "title": "Partner",
       "apiType": "hw",
-      "colCell": "HomePartnerColCell",
+      "colCell": "homepartnercolcell",
       "showMore": "0",
       "type": "3",
       "count": "10",
