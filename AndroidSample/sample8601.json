@@ -1,74 +1,127 @@
 {
-  "request": [
-    {
-      "title": "BANNER",
-      "apiType": "hw",
-      "colCell": "bannercolcell",
-      "isMore": false,
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
+    "request": [
       {
-        "key": "subjectID",
-        "values": [
-          "G1001"
+        "title": "LIVE EVENTS",
+        "apiType": "nm00a",
+        "colCell": "homechannelcolcell",
+        "isMore": true,
+        "type": "4",
+        "count": "0",
+        "customFields": [
+          {
+            "channelID": "20000021",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
+            "name": "test Tazza: One Eyed Jack",
+            "timeStart": "20240525 010000",
+            "timeEnd": "20240526 121500",
+            "playbillID": "69132145"
+          },
+          {
+            "channelID": "20000021",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-bg.jpg",
+            "name": "test Love Reset",
+            "timeStart": "20240525 010000",
+            "timeEnd": "20240526 121500",
+            "playbillID": "69132343"
+          },
+          {
+            "channelID": "54185493",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
+            "name": "test UFC Fight Night: Lewis vs. Nascimento",
+            "timeStart": "20240527 010000",
+            "timeEnd": "20240529 233000",
+            "playbillID": "69566628"
+          },
+          {
+            "channelID": "20000109",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
+            "name": "test 2024 LIV Golf League SINGAPORE",
+            "timeStart": "20240527 010000",
+            "timeEnd": "20240529 233000",
+            "playbillID": "69552373"
+          },
+          {
+            "channelID": "55456338",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
+            "name": "test Premier Padel 2024 Live",
+            "timeStart": "20240527 010000",
+            "timeEnd": "20240529 233000",
+            "playbillID": "69598704"
+          },
+          {
+            "channelID": "51882833",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-bg.jpg",
+            "name": "test The Rookie (Season 6)",
+            "timeStart": "20240530 010000",
+            "timeEnd": "20240530 121500",
+            "playbillID": "69483025"
+          },
+          {
+            "channelID": "99999999",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-bg.jpg",
+            "name": "test Doyan Makan",
+            "timeStart": "20240530 010000",
+            "timeEnd": "20240530 121500",
+            "playbillID": "69515928"
+          },
+          {
+            "channelID": "20000081",
+            "action": "livetv_in",
+            "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-poster.jpg",
+            "pictureDef": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-deflate.jpg",
+            "pictureBackg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-bg.jpg",
+            "name": "test Pacific Rim: Uprising",
+            "timeStart": "20240530 010000",
+            "timeEnd": "20240530 121500",
+            "playbillID": "9968971899"
+          }
         ]
-      }]
-    },
-    {
-      "title": "Partner",
-      "apiType": "hw",
-      "colCell": "homepartnercolcell",
-      "isMore": true,
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "G1001"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SAMPLE 2",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "isMore": true,
-      "type": "4",
-      "count": "10",
-      "extensionFields": [
+      },
       {
-        "key": "subjectID",
-        "values": [
-          "G0011"
+        "title": "OTT HIGHLIGHTS",
+        "apiType": "hw",
+        "colCell": "homevodcolcell",
+        "showMore": "1",
+        "isMore": true,
+        "type": "3",
+        "count": "12",
+        "extensionFields": [
+          {
+            "key": "subjectID",
+            "values": ["G5006"]
+          }
         ]
-      }]
-    },
-    {
-      "title": "SAMPLE",
-      "apiType": "hw",
-      "colCell": "homechannelcolcell",
-      "isMore": true,
-      "type": "4",
-      "count": "0",
-      "extensionFields": [
+      },
       {
-        "key": "subjectID",
-        "values": [
-          "G0011"
-        ]
-      }]
-    },
-    {
-      "title": "CHANNELS",
-      "apiType": "hw",
-      "colCell": "homechannelcolcell",
-      "isMore": true,
-      "type": "9",
-      "count": "50",
-      "isLastRow": true
-    }
-  ]
-}
+        "title": "CHANNELS",
+        "apiType": "hw",
+        "colCell": "homechannelcolcell",
+        "showMore": "1",
+        "isMore": true,
+        "type": "9",
+        "count": "50",
+        "isLastRow": true
+      }
+    ]
+  }
