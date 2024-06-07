@@ -4,7 +4,7 @@
       "title": "BANNER",
       "apiType": "nm00a",
       "action": "0",
-      "colCell": "homechannelcolcell",
+      "colCell": "bannercolcell",
       "showMore": "0",
       "type": "4",
       "count": "0",
@@ -29,15 +29,6 @@
           "name": "Youtube"
         }
       ]
-    },
-    {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "11",
-      "count": "20"
     },
     {
       "title": "SAMPLE ROW CUSTOM 1",
@@ -173,7 +164,7 @@
       "title": "LIVE TV",
       "apiType": "hw",
       "action": "0",
-      "colCell": "bannercolcell",
+      "colCell": "HomeChannelColCell",
       "showMore": "1",
       "type": "9",
       "count": "50"
