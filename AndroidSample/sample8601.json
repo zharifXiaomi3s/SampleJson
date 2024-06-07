@@ -164,7 +164,7 @@
       "title": "LIVE TV",
       "apiType": "hw",
       "action": "0",
-      "colCell": "HomeChannelColCell",
+      "colCell": "homechannelcolcell",
       "showMore": "1",
       "type": "9",
       "count": "50"
