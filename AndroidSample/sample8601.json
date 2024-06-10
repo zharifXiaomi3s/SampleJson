@@ -133,6 +133,21 @@
       ]
     },
     {
+      "title": "BLOCKBUSTER MOVIE DEALS",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "3",
+      "count": "12",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["G1013"]
+        }
+      ]
+    },
+    {
       "title": "SAMPLE ROW CUSTOM 2",
       "apiType": "nm00b",
       "action": "0",
