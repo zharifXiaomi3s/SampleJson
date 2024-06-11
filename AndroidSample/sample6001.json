@@ -2,342 +2,240 @@
   "request": [
     {
       "title": "BANNER",
-      "apiType": "hw",
+      "apiType": "nm00a",
+      "action": "0",
       "colCell": "bannercolcell",
       "showMore": "0",
-      "type": "3",
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "ID": "60449109",
+          "action": "vod_in",
+          "picture": "https://i.ytimg.com/vi/v1idsDn7_bA/maxresdefault.jpg",
+          "name": "Section 8"
+        },
+        {
+          "ID": "60828691",
+          "channelID": "20000011",
+          "action": "livetv_in",
+          "picture": "https://media.xtra.com.my/2021/08/Tv3.jpg",
+          "name": "TV3"
+        },
+        {
+          "ID": "https://www.youtube.com/",
+          "action": "url_out",
+          "picture": "https://www.dacgroup.com/wp-content/uploads/2013/11/GOOGLE-PRESSES-FORWARD.jpg",
+          "name": "Youtube"
+        }
+      ]
+    },
+    {
+      "title": "SAMPLE ROW CUSTOM 1 IPTV",
+      "apiType": "nm00a",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0",
+      "customFields": [
+        {
+          "ID": "60449109",
+          "action": "vod_in",
+          "picture": "https://marketplace.canva.com/EAFKBlkPokE/1/0/1131w/canva-beige-yellow-modern-minimal-save-the-planet-campaign-poster-nJZWEeiuixo.jpg",
+          "name": "Section 8"
+        },
+        {
+          "ID": "60828691",
+          "channelID": "20000011",
+          "action": "livetv_in",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6klZedzG0sgUZswFV2gT7tucNVQc-8s7Qg&usqp=CAU",
+          "name": "TV3"
+        },
+        {
+          "ID": "https://www.youtube.com/",
+          "action": "url_out",
+          "picture": "https://img.freepik.com/free-vector/youtube-player-icon-with-flat-design_23-2147837753.jpg",
+          "name": "Youtube"
+        },
+        {
+          "ID": "43283",
+          "action": "vod_in",
+          "picture": "https://pbs.twimg.com/media/FQea_f4VQAIJko1.jpg",
+          "name": "Minions"
+        },
+        {
+          "ID": "57881270",
+          "action": "vod_in",
+          "picture": "https://m.media-amazon.com/images/M/MV5BMWMxMTgyODAtNTMwNS00ZGVjLTlkODAtZWJlYjIxMGRmZWY0XkEyXkFqcGdeQXVyNTk5ODg4NDA@._V1_FMjpg_UX1000_.jpg",
+          "name": "Power Ranger"
+        },
+        {
+          "ID": "60826123",
+          "channelID": "20000014",
+          "action": "livetv_in",
+          "picture": "https://baiturrahman.my/wp-content/uploads/2022/06/24-2-22.jpg",
+          "name": "TV Al-Hijrah"
+        },
+        {
+          "ID": "57887707",
+          "action": "vod_in",
+          "picture": "https://pbs.twimg.com/media/FQea_f4VQAIJko1.jpg",
+          "name": "Apple -"
+        },
+        {
+          "ID": "59863016",
+          "action": "vod_in",
+          "picture": "https://central.menarikdi.com/wp-content/uploads/2021/08/132610368_3407036939419694_7071731645812610957_n.jpg",
+          "name": "Burger Bakar"
+        },
+        {
+          "ID": "52645637",
+          "action": "vod_in",
+          "picture": "https://www.ajinomoto.com.my/sites/default/files/content/recipe/image/2021-03/sate-pakngah.jpg",
+          "name": "Sate Ayam"
+        },
+        {
+          "ID": "https://apps.apple.com/my/app/viu-stream-tv-shows-serials/id1044543328",
+          "action": "url_out",
+          "picture": "https://image.winudf.com/v2/image1/Y29tLnZ1Y2xpcC52aXVfc2NyZWVuXzBfMTY2Nzk2MjU5OV8wMjE/screen-0.jpg?fakeurl=1&type=.jpg",
+          "name": "Viu app"
+        },
+        {
+          "ID": "60583569",
+          "channelID": "20000070",
+          "action": "livetv_in",
+          "picture": "https://pbs.twimg.com/media/E2Yus3cVUAgOitI?format=jpg&name=large",
+          "name": "Salam HD"
+        },
+        {
+          "ID": "49795444",
+          "action": "vod_in",
+          "picture": "https://www.vtechbarcode.com.my/wp-content/uploads/2021/07/Ptomotion.jpeg",
+          "name": "POS"
+        }
+      ]
+    },
+    {
+      "title": "Type 4 IPTV",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "isMore": true,
+      "type": "4",
       "count": "10",
       "extensionFields": [
         {
           "key": "subjectID",
           "values": [
-            "UW1001"
+            "UW0004"
           ]
         }
       ]
     },
     {
-      "title": "HIGHLIGHTS",
+      "title": "BLOCKBUSTER MOVIE DEALS IPTV",
       "apiType": "hw",
       "colCell": "homevodcolcell",
       "showMore": "1",
+      "isMore": true,
       "type": "3",
       "count": "12",
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW1001"
-          ]
+          "values": ["UW1013"]
         }
       ]
     },
     {
-      "title": "WHAT'S IN THE BOX?",
-      "apiType": "nm00a",
+      "title": "SAMPLE ROW CUSTOM 2",
+      "apiType": "nm00b",
+      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
-      "type": "4",
-      "count": "0",
+      "type": "3",
+      "count": "20",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "G1001"
+          ]
+        }
+      ],
       "customFields": [
         {
-          "ID": "65759111",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231107/20231107092615172hfn_op.jpg",
-          "name": "Mission: Impossible – Dead Reckoning Part One"
+          "ID": "59502549"
         },
         {
-          "ID": "65293422",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231021/202310211530201692fp_op.jpg",
-          "name": "Sosok Ketiga"
+          "ID": "60123901"
         },
         {
-          "ID": "66091334",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231122/20231122145325176roo_op.jpg",
-          "name": "The Equalizer 3"
-        },
-        {
-          "ID": "65570478",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231030/20231030012050828qlt_op.jpg",
-          "name": "Meg 2: The Trench"
-        },
-        {
-          "ID": "65759116",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231107/202311070936051726s9_op.jpg",
-          "name": "Blue Beetle"
-        },
-        {
-          "ID": "65459692",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202310/20231024/20231024135515829ws4_op.jpg",
-          "name": "Barbie"
-        },
-        {
-          "ID": "65734947",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231102/2023110208341091329i_op.jpg",
-          "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
-        },
-        {
-          "ID": "65811799",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231121/20231121111820849q0y_op.jpg",
-          "name": "The Nun II"
-        },
-        {
-          "ID": "54044627",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202201/20220129/20220129035409587lp6_op.jpg",
-          "name": "Spider-Man: Across The Spiderverse"
-        },
-        {
-          "ID": "64822661",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202309/20230927/20230927145920831l2p_op.jpg",
-          "name": "Insidious: The Red Door"
-        },
-        {
-          "ID": "64126092",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202308/20230822/20230822082410841lz0_op.jpg",
-          "name": "Transformers Rise of the Beasts"
+          "ID": "60337666"
         }
       ]
     },
     {
-      "title": "3rd Party OTT Shows",
-      "apiType": "nm00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "ID": "https://s.iq.com/oycew",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-iqiyi-rampascintaku.jpg",
-          "name": "Rampas Cintaku"
-        },
-        {
-          "ID": "https://s.iq.com/oycew",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-iqiyi-unchainedlove.jpg",
-          "name": "Unchained Love"
-        },
-        {
-          "ID": "https://www.tvbanywhere.com/promo",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-tvbanywhere+-thequeenofnews.jpg",
-          "name": "The QUEEN Of News"
-        },
-        {
-          "ID": "https://www.tvbanywhere.com/promo",
-          "action": "url_out",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/vod-tvbanywhere+-theairportdiary.jpg",
-          "name": "The Airport Diary"
-        },
-        {
-          "ID": "67021008",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202401/20240110/20240110063358752r9a_op.jpg",
-          "name": "Echoes of the Thunder 速戰"
-        },
-        {
-          "ID": "65874503",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202311/20231108/202311081031158339ti_op.jpg",
-          "name": "Ace VS Ace"
-        },
-        {
-          "ID": "67044314",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202401/20240113/20240113111615829a11_op.jpg",
-          "name": "Mr. Funnybone Strikes Again 老夫子奇趣錄"
-        }
-      ]
-    },
-    {
-      "title": "VIDEO GAMES",
-      "apiType": "nm00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0",
-      "customFields": [
-        {
-          "ID": "65942514",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231115/20231115084315171085_op.jpg",
-          "name": "Gran Turismo: Based On A True Story"
-        },
-        {
-          "ID": "65734947",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202311/20231102/2023110208341091329i_op.jpg",
-          "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
-        },
-        {
-          "ID": "81450",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202205/20220508/20220508161318994q5s_op.jpg",
-          "name": "Ready Player One "
-        },
-        {
-          "ID": "63438851",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202307/20230704/20230704045103909lqe_op.jpg",
-          "name": "The Super Mario Bros. Movie"
-        },
-        {
-          "ID": "96798",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201909/20190923/20190923090123313n8o_op.jpg",
-          "name": "Pokémon Detective Pikachu"
-        },
-        {
-          "ID": "114052",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/202005/20200519/20200519101243037rf7_op.jpg",
-          "name": "Sonic The Hedgehog"
-        },
-        {
-          "ID": "52790",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201907/20190722/20190722071658196leh_op.jpg",
-          "name": "The Angry Birds Movie 2"
-        },
-        {
-          "ID": "101799",
-          "action": "vod_in",
-          "picture": "http://playtv.unifi.com.my:7033/CPS/images/universal/film/poster/201912/20191202/20191202033103303om9_op.jpg",
-          "name": "The Angry Birds Movie"
-        }
-      ]
-    },
-    {
-      "title": "NEW THIS WEEK",
+      "title": "LIVE TV",
       "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW5002"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "11",
-      "count": "20"
-    },
-    {
-      "title": "MY PURCHASED LIBRARY",
-      "apiType": "hw00a",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0"
-    },
-    {
-      "title": "RECOMMENDED MOVIES",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW2005"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "RECOMMENDED SERIES",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW2001"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "KIDS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW2003"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "BBC FIRST HD",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW3002"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "INFO",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "12",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW2002"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "CHANNELS",
-      "apiType": "hw",
+      "action": "0",
       "colCell": "homechannelcolcell",
       "showMore": "1",
       "type": "9",
-      "count": "50",
-      "isLastRow": true
+      "count": "50"
+    },
+    {
+      "title": "SAMPLE ROW CUSTOM 3",
+      "apiType": "nm00a",
+      "colCell": "homepartnercolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0",
+      "isLastRow": true,
+      "customFields": [
+        {
+          "ID": "https://apps.apple.com/my/app/viu-stream-tv-shows-serials/id1044543328",
+          "action": "url_out",
+          "picture": "https://unifi.com.my/plus-box/images/viu_poster2.jpg",
+          "name": "Viu app"
+        },
+        {
+          "ID": "https://apps.apple.com/my/app/netflix/id363590051",
+          "action": "url_out",
+          "picture": "https://cdn.mos.cms.futurecdn.net/Yy247gYvzaMZXprhZHXy4E.jpg",
+          "name": "Netflix app"
+        },
+        {
+          "ID": "https://apps.apple.com/my/app/disney-hotstar/id1524156685",
+          "action": "url_out",
+          "picture": "https://248am.com/images/2022/05/disneyplus.jpg",
+          "name": "Disney+ app"
+        },
+        {
+          "ID": "https://apps.apple.com/us/app/mangotv/id1295034410",
+          "action": "url_out",
+          "picture": "https://cdn.soft112.com/mgtv-tv/00/00/0H/CH/00000HCHG4/pad_screenshot.jpg",
+          "name": "Mango TV app"
+        },
+        {
+          "ID": "https://apps.apple.com/us/app/iqiyi-dramas-anime-shows/id1461999674",
+          "action": "url_out",
+          "picture": "https://unifi.com.my/tv/sites/default/files/2022-12/iQIYI_1000x500-Nov_0.jpg",
+          "name": "iQIYI app"
+        },
+        {
+          "ID": "https://apps.apple.com/us/app/kocowa/id1222389576",
+          "action": "url_out",
+          "picture": "https://variety.com/wp-content/uploads/2022/12/WavveAmericas_PR-release_b-cr-res.jpg?w=1000&h=562&crop=1",
+          "name": "KOCOWA+ app"
+        },
+        {
+          "ID": "https://apps.apple.com/my/app/astro-go/id521993797",
+          "action": "url_out",
+          "picture": "https://1.bp.blogspot.com/-rXhkX8ycVsk/XjjvQOblfrI/AAAAAAAAByQ/rDQZIr9798QxsqPdCNK8l8qrlyaKTLbTwCLcBGAsYHQ/s640/astro%2Bgo%2Bsmartphone.jpg",
+          "name": "Astro Go app"
+        }
+      ]
     }
   ]
 }
