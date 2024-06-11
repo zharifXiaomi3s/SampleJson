@@ -116,18 +116,18 @@
       ]
     },
     {
-      "title": "HIGHLIGHTS",
+      "title": "Type 4",
       "apiType": "hw",
       "action": "0",
       "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
+      "isMore": true,
+      "type": "4",
       "count": "0",
       "extensionFields": [
         {
           "key": "subjectID",
           "values": [
-            "G1001"
+            "G0004"
           ]
         }
       ]
