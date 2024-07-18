@@ -143,7 +143,7 @@
           "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/2024HualienSummerFestival_A2.jpg",
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/2024HualienSummerFestival_C.jpg",
           "name": "2024 Hualien Summer Festival",
-          "timeStart": "20240718 183000",
+          "timeStart": "20240718 000000",
           "timeEnd": "20240721 220000",
           "playbillID": "70286559"
         },
@@ -154,7 +154,7 @@
           "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/2024TainanSummerMusicFestival_A2.jpg",
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/2024TainanSummerMusicFestival_C.jpg",
           "name": "Haha 2024 Tainan Summer Music Festival",
-          "timeStart": "20240718 173000",
+          "timeStart": "20240718 000000",
           "timeEnd": "20240721 203000",
           "playbillID": "TBC4"
         },
@@ -165,7 +165,7 @@
           "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/2024TainanSummerMusicFestival_A2.jpg",
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/2024TainanSummerMusicFestival_C.jpg",
           "name": "2024 Tainan Summer Music Festival",
-          "timeStart": "20240720 173000",
+          "timeStart": "20240720 000000",
           "timeEnd": "20240721 203000",
           "playbillID": "TBC4"
         }
