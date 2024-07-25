@@ -17,7 +17,7 @@
     },
     {
       "title": "NM00F development",
-      "apiType": "nm00e",
+      "apiType": "nm00f",
       "colCell": "homevodcolcell",
       "isMore": false,
       "type": "4",
@@ -27,7 +27,7 @@
           "channelID": "70372042",
           "action": "livetv_in",
           "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/Logo_US_CH/USxOLY_Posters_02.png",
-          "name": "Unifi Sports 2",
+          "name": "NM00F 1",
           "timeStart": "20240718 000100",
           "timeEnd": "20240817 235900"
         },
@@ -35,7 +35,7 @@
           "channelID": "70372848",
           "action": "livetv_in",
           "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/Logo_US_CH/USxOLY_Posters_03.png",
-          "name": "Unifi Sports 3",
+          "name": "nm00f 2",
           "timeStart": "20240718 000100",
           "timeEnd": "20240817 235900"
         },
@@ -43,7 +43,7 @@
           "channelID": "70372931",
           "action": "livetv_in",
           "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/Logo_US_CH/USxOLY_Posters_04.png",
-          "name": "Unifi Sports 4",
+          "name": "nm00f 3",
           "timeStart": "20240718 000100",
           "timeEnd": "20240817 235900"
         },
@@ -51,7 +51,7 @@
           "channelID": "70373008",
           "action": "livetv_in",
           "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/Logo_US_CH/USxOLY_Posters_05.png",
-          "name": "Unifi Sports 5",
+          "name": "nm00f 4",
           "timeStart": "20240718 000100",
           "timeEnd": "20240817 235900"
         }
