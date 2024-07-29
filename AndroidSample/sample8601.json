@@ -24,6 +24,12 @@
       "count": "0",
       "customFields": [
         {
+          "ID": "70372042",
+          "action": "vod_in",
+          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/Logo_US_CH/USxOLY_Posters_02.png",
+          "name": "Jurasic Park"
+        },
+        {
           "channelID": "70372042",
           "action": "livetv_in",
           "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/Logo_US_CH/USxOLY_Posters_02.png",
