@@ -24,10 +24,10 @@
       "count": "0",
       "customFields": [
         {
-          "ID": "70372042",
+          "ID": "25453",
           "action": "vod_in",
-          "picture": "https://unifitv4u.bitbucket.io/homeLauncher/poc/Logo_US_CH/USxOLY_Posters_02.png",
-          "name": "Jurasic Park"
+          "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190718/20190718135020368vgk_op.jpg",
+          "name": "Kung Fu Panda 2"
         },
         {
           "channelID": "70372042",
