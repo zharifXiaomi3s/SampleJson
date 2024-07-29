@@ -27,7 +27,8 @@
           "ID": "25453",
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190718/20190718135020368vgk_op.jpg",
-          "name": "Kung Fu Panda 2"
+          "name": "Kung Fu Panda 2",
+          "timeEnd": "20240717 235900"
         },
         {
           "channelID": "70372042",
@@ -71,7 +72,7 @@
           "action": "vod_in",
           "picture": "http://playtv.unifi.com.my:7031/CPS/images/universal/film/poster/201907/20190718/20190718135020368vgk_op.jpg",
           "name": "Kung Fu Panda 2",
-          "timeStart": "20240718 000100",
+          "timeStart": "20240818 000100",
           "timeEnd": "20240817 235900"
         },
         {
