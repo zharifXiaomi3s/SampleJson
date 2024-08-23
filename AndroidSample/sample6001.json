@@ -1,21 +1,6 @@
 {
     "request": [
-        {
-            "title": "BANNER",
-            "apiType": "hw",
-            "colCell": "bannercolcell",
-            "isMore": false,
-            "type": "3",
-            "count": "4",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW1001"
-                    ]
-                }
-            ]
-        },
+        
         {
             "title": "HIGHLIGHTS",
             "apiType": "hw",
