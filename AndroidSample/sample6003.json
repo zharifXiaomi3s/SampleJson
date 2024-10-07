@@ -16,20 +16,6 @@
       ]
     },
     {
-      "title": "HIGHLIGHTS",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "isMore": true,
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["H1001"]
-        }
-      ]
-    },
-    {
       "title": "LIVE EVENTS",
       "apiType": "nm00d",
       "colCell": "homevodcolcell",
@@ -68,92 +54,77 @@
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/5Okt_AXN_MissCosmo2024_C.jpg"
         },
         {
-          "channelID": "20000109",
+          "channelID": "71542106",
           "action": "livetv_in",
-          "name": "ROSHN Saudi League 2024/25 - Al Nassr vs Al Orobah",
-          "timeStart": "20241005 230000",
-          "timeEnd": "20241006 010000",
-          "playbillID": "71929075",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlNassrvsAlOrobah-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlNassrvsAlOrobah-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlNassrvsAlOrobah-C.jpg"
+          "name": "ACS Edu Tour Season 3 State Finals - Perak",
+          "timeStart": "20241021 120000",
+          "timeEnd": "20241021 180000",
+          "playbillID": "TBC16",
+          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/21Okt_Prk_B2.jpg",
+          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/21Okt_Prk_A2.jpg",
+          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/21Okt_Prk_C.jpg"
         },
         {
-          "channelID": "20000109",
+          "channelID": "71542106",
           "action": "livetv_in",
-          "name": "ROSHN Saudi League 2024/25 - Al Ahli vs Al Hilal",
-          "timeStart": "20241006 014500",
-          "timeEnd": "20241006 040000",
-          "playbillID": "71929087",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlAhlivsAlHilal-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlAhlivsAlHilal-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlAhlivsAlHilal-C.jpg"
-        },
+          "name": "ACS Edu Tour Season 3 State Finals - Sabah",
+          "timeStart": "20241023 120000",
+          "timeEnd": "20241023 180000",
+          "playbillID": "TBC17",
+          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/23Okt_Sabah_B2.jpg",
+          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/23Okt_Sabah_A2.jpg",
+          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/23Okt_Sabah_C.jpg"
+        }
+      ]
+    },
+    {
+      "title": "POWER RANGERS",
+      "apiType": "nm00e",
+      "colCell": "homevodcolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "customFields": [
         {
-          "channelID": "54185493",
+          "channelID": "59922231",
           "action": "livetv_in",
-          "name": "UFC 307: Pereira vs. Rountree Jr.",
-          "timeStart": "20241006 080000",
-          "timeEnd": "20241006 143000",
-          "playbillID": "72052211",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/PereiravsRountree-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/PereiravsRountree-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/PereiravsRountree-C.jpg"
+          "name": "ATP 1000 Shanghai",
+          "timeStart": "20241002 123000",
+          "timeEnd": "20241013 163000",
+          "playbillID": "71850750",
+          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP-Shanghai-Paris-B2.jpg",
+          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP-Shanghai-Paris-A2.jpg",
+          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP-Shanghai-Paris-C.jpg"
         },
         {
           "channelID": "20000076",
           "action": "livetv_in",
-          "name": "MotoGP 2024 Round 16 Grand Prix of Japan - Race",
-          "timeStart": "20241006 094500",
-          "timeEnd": "20241006 143000",
-          "playbillID": "71842775",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_R-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_R-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_R-C.jpg"
+          "name": "MotoGP 2024 Round 16 Grand Prix of Japan - Practice 2",
+          "timeStart": "20241005 073500",
+          "timeEnd": "20241005 214500",
+          "playbillID": "71842625",
+          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_P2-B2.jpg",
+          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_P2-A2.jpg",
+          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_P2-C.jpg"
         },
         {
-          "channelID": "71542106",
-          "action": "livetv_in",
-          "name": "ACS Edu Tour Season 3 State Finals - Pahang",
-          "timeStart": "20241011 120000",
-          "timeEnd": "20241011 180000",
-          "playbillID": "TBC12",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/11Okt_Phg_B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/11Okt_Phg_A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/11Okt_Phg_C.jpg"
+          "ID": "71667742",
+          "action": "vod_in",
+          "name": "Despicable Me 4",
+          "timeStart": "20241005 014500",
+          "timeEnd": "20241008 040000",
+          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202409/20240916/20240916100222358idi_op.jpg",
         },
         {
-          "channelID": "71542106",
+          "channelID": "51882833",
           "action": "livetv_in",
-          "name": "ACS Edu Tour Season 3 State Finals - Selangor & Putrajaya",
-          "timeStart": "20241016 120000",
-          "timeEnd": "20241016 180000",
-          "playbillID": "TBC13",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/16Okt_Sel-Ptjaya_B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/16Okt_Sel-Ptjaya_A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/16Okt_Sel-Ptjaya_C.jpg"
-        },
-        {
-          "channelID": "71542106",
-          "action": "livetv_in",
-          "name": "ACS Edu Tour Season 3 State Finals - Kuala Lumpur",
-          "timeStart": "20241018 120000",
-          "timeEnd": "20241018 180000",
-          "playbillID": "TBC14",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/18Okt_KL_B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/18Okt_KL_A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/18Okt_KL_C.jpg"
-        },
-        {
-          "channelID": "71542106",
-          "action": "livetv_in",
-          "name": "ACS Edu Tour Season 3 State Finals - Johor",
-          "timeStart": "20241019 120000",
-          "timeEnd": "20241019 180000",
-          "playbillID": "TBC15",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/19Okt_Johor_B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/19Okt_Johor_A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/19Okt_Johor_C.jpg"
+          "name": "Miss Cosmo 2024",
+          "timeStart": "20241007 212000",
+          "timeEnd": "20241008 235000",
+          "playbillID": "71797699",
+          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/5Okt_AXN_MissCosmo2024_B2.jpg",
+          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/5Okt_AXN_MissCosmo2024_A2.jpg",
+          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/5Okt_AXN_MissCosmo2024_C.jpg"
         },
         {
           "channelID": "71542106",
