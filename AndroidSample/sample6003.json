@@ -49,59 +49,12 @@
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP-Shanghai-Paris-C.jpg"
         },
         {
-          "channelID": "20000076",
-          "action": "livetv_in",
-          "name": "ROSHN Saudi League 2024/25 - Al Okhdood vs Al Ittihad",
-          "timeStart": "20241004 014500",
-          "timeEnd": "20241004 040000",
-          "playbillID": "71842499",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlOkhdoodvsAIIttihad-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlOkhdoodvsAIIttihad-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlOkhdoodvsAIIttihad-C.jpg"
-        },
-        {
-          "channelID": "20000076",
-          "action": "livetv_in",
-          "name": "MotoGP 2024 Round 16 Grand Prix of Japan - Practice 1",
-          "timeStart": "20241004 121000",
-          "timeEnd": "20241004 153000",
-          "playbillID": "71842553",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan-C.jpg"
-        },
-        {
-          "channelID": "20000076",
-          "action": "livetv_in",
-          "name": "MotoGP 2024 Round 16 Grand Prix of Japan - Practice 2",
-          "timeStart": "20241005 073500",
-          "timeEnd": "20241005 214500",
-          "playbillID": "71842625",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_P2-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_P2-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_P2-C.jpg"
-        },
-        {
-          "channelID": "20000076",
-          "action": "livetv_in",
-          "name": "MotoGP 2024 Round 16 Grand Prix of Japan - Qualifying",
-          "timeStart": "20241005 094500",
-          "timeEnd": "20241005 133000",
-          "playbillID": "71842643",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_Q-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_Q-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_Q-C.jpg"
-        },
-        {
-          "channelID": "20000076",
-          "action": "livetv_in",
-          "name": "MotoGP 2024 Round 16 Grand Prix of Japan - Sprint",
-          "timeStart": "20241005 133500",
-          "timeEnd": "20241005 150000",
-          "playbillID": "71842667",
-          "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_SP-B2.jpg",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_SP-A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Japan_SP-C.jpg"
+          "ID": "71667742",
+          "action": "vod_in",
+          "name": "Despicable Me 4",
+          "timeStart": "20241008 014500",
+          "timeEnd": "20241008 040000",
+          "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202409/20240916/20240916100222358idi_op.jpg",
         },
         {
           "channelID": "51882833",
