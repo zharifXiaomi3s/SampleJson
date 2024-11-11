@@ -35,6 +35,17 @@
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP-Shanghai-Paris-C.jpg"
         },
         {
+          "channelID": "71542106",
+          "action": "livetv_in",
+          "name": "ACS Edu Tour Season 3 State Finals - Perak",
+          "timeStart": "20241121 120000",
+          "timeEnd": "20241121 180000",
+          "playbillID": "TBC16",
+          "picture": "https://img.hulu.com/user/v3/artwork/40fb1770-5066-4335-a10e-055f85573edc?base_image_bucket_name=image_manager&base_image=211e70be-7c47-45fd-9942-ecd0652d6b9d&size=458x687&format=webp",
+          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/21Okt_Prk_A2.jpg",
+          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/21Okt_Prk_C.jpg"
+        },
+        {
           "ID": "71667742",
           "action": "vod_in",
           "name": "Despicable Me 4",
@@ -52,17 +63,6 @@
           "picture": "https://raresportbikesforsale.com/wp-content/uploads/2017/05/1992-Honda-NSR150-L-Side.jpg",
           "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/5Okt_AXN_MissCosmo2024_A2.jpg",
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/5Okt_AXN_MissCosmo2024_C.jpg"
-        },
-        {
-          "channelID": "71542106",
-          "action": "livetv_in",
-          "name": "ACS Edu Tour Season 3 State Finals - Perak",
-          "timeStart": "20241121 120000",
-          "timeEnd": "20241121 180000",
-          "playbillID": "TBC16",
-          "picture": "https://img.hulu.com/user/v3/artwork/40fb1770-5066-4335-a10e-055f85573edc?base_image_bucket_name=image_manager&base_image=211e70be-7c47-45fd-9942-ecd0652d6b9d&size=458x687&format=webp",
-          "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/21Okt_Prk_A2.jpg",
-          "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/21Okt_Prk_C.jpg"
         },
         {
           "channelID": "71542106",
