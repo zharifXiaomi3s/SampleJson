@@ -54,6 +54,14 @@
           "picture": "https://i.ytimg.com/vi/GfilkFTRU8E/maxresdefault.jpg",
         },
         {
+          "ID": "71667742",
+          "action": "vod_in",
+          "name": "Remove",
+          "timeStart": "20241111 014500",
+          "timeEnd": "20241111 040000",
+          "picture": "https://i.ytimg.com/vi/smYGwn4muuo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDQl_-GGEJdATSSL8-e_qgqWacyA",
+        },
+        {
           "channelID": "51882833",
           "action": "livetv_in",
           "name": "Miss Cosmo 2024",
