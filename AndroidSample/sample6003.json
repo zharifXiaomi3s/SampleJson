@@ -28,7 +28,7 @@
           "action": "livetv_in",
           "name": "ATP 1000 Shanghai",
           "timeStart": "20241002 123000",
-          "timeEnd": "20241013 163000",
+          "timeEnd": "20251013 163000",
           "playbillID": "71850750",
           "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP-Shanghai-Paris-B2.jpg",
           "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP-Shanghai-Paris-A2.jpg",
@@ -39,7 +39,7 @@
           "action": "vod_in",
           "name": "Despicable Me 4",
           "timeStart": "20241005 014500",
-          "timeEnd": "20241008 040000",
+          "timeEnd": "20251008 040000",
           "picture": "http://playtv.unifi.com.my:7037/CPS/images/universal/film/poster/202409/20240916/20240916100222358idi_op.jpg",
         },
         {
