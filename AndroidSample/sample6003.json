@@ -16,6 +16,15 @@
       ]
     },
     {
+      "title": "VAS SERVICE",
+      "apiType": "hw00b",
+      "colCell": "homevodcolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "customFields": []
+    },
+    {
       "title": "LIVE EVENTS",
       "apiType": "nm00d",
       "colCell": "homevodcolcell",
