@@ -16,6 +16,38 @@
       ]
     },
     {
+      "title": "VAS SERVICE",
+      "apiType": "hw00b",
+      "colCell": "homevodcolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "customFields": []
+    },
+    {
+      "title": "SAMPLE ROW CUSTOM 3",
+      "apiType": "nm00a",
+      "colCell": "homepartnercolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0",
+      "isLastRow": true,
+      "customFields": [
+        {
+          "ID": "https://s.iq.com/oycew",
+          "appStore":"https://apps.apple.com/us/app/iqiyi-dramas-anime-shows/id1461999674",
+          "action": "url_out",
+          "picture": "https://unifi.com.my/tv/sites/default/files/2022-12/iQIYI_1000x500-Nov_0.jpg",
+          "name": "iQIYI app"
+        },
+        {
+          "ID": "iqyinter://",
+          "action": "url_out",
+          "picture": "https://unifi.com.my/tv/sites/default/files/2022-12/iQIYI_1000x500-Nov_0.jpg",
+          "name": "iQIYI app"
+        }
+    },
+    {
       "title": "LIVE EVENTS",
       "apiType": "nm00d",
       "colCell": "homevodcolcell",
