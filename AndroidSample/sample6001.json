@@ -18,6 +18,22 @@
       ]
     },
     {
+      "title": "Oscar 2025 Spotlight",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "isMore": true,
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "UW5006"
+          ]
+        }
+      ]
+    },
+    {
       "title": "VAS SERVICE",
       "apiType": "hw00b",
       "colCell": "homevodcolcell",
@@ -33,22 +49,6 @@
       "isMore": false,
       "type": "4",
       "count": "0"
-    },
-    {
-      "title": "Oscar 2025 Spotlight",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "isMore": true,
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW5006"
-          ]
-        }
-      ]
     },
     {
       "title": "CONTINUE WATCHING",
