@@ -48,7 +48,12 @@
       "colCell": "homepartnercolcell",
       "isMore": false,
       "type": "4",
-      "count": "0"
+      "count": "0",
+      "ottArrangement": {
+        "to_activate": 2,
+        "to_purchase": 3,
+        "to_watch": 1
+      }
     },
     {
       "title": "CONTINUE WATCHING",
