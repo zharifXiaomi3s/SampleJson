@@ -27,6 +27,14 @@
       "customFields": []
     },
     {
+      "title": "OTT PARTNER SERVICE",
+      "apiType": "hw00c",
+      "colCell": "homepartnercolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0"
+    },
+    {
       "title": "THE PENGUIN",
       "apiType": "hw",
       "colCell": "homevodcolcell",
