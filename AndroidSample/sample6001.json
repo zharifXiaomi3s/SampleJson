@@ -49,7 +49,7 @@
       "isMore": false,
       "type": "4",
       "count": "0",
-      "isNotOttDetail": true,
+      "isNotOttDetail": false,
       "ottArrangement": {
         "to_activate": 2,
         "to_purchase": 3,
