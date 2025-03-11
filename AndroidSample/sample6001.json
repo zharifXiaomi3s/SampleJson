@@ -49,6 +49,7 @@
       "isMore": false,
       "type": "4",
       "count": "0",
+      "ottSortType": 1,
       "isNotOttDetail": false,
       "ottArrangement": {
         "to_activate": 2,
