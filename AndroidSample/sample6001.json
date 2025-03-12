@@ -1,6 +1,22 @@
 {
   "request": [
-    
+    {
+      "title": "BANNER",
+      "apiType": "hw",
+      "colCell": "bannercolcell",
+      "showMore": "0",
+      "isMore": false,
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "UW1001"
+          ]
+        }
+      ]
+    },
     {
       "title": "Oscar 2025 Spotlight",
       "apiType": "hw",
