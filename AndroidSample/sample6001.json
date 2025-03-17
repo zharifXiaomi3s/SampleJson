@@ -51,7 +51,7 @@
       "count": "0",
       "ottSortType": 1,
       "isNotOttDetail": false,
-      "isTagDisplay": false,
+      "isTagDisplay": true,
       "ottArrangement": {
         "to_activate": 2,
         "to_purchase": 3,
