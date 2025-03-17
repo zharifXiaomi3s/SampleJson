@@ -1,22 +1,6 @@
 {
   "request": [
     {
-      "title": "Oscar 2025 Spotlight",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "isMore": true,
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "UW5006"
-          ]
-        }
-      ]
-    },
-    {
       "title": "BANNER",
       "apiType": "hw",
       "colCell": "bannercolcell",
@@ -28,7 +12,23 @@
         {
           "key": "subjectID",
           "values": [
-            "UW1001x"
+            "UW1001"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oscar 2025 Spotlight",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "isMore": true,
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "UW5006"
           ]
         }
       ]
@@ -51,6 +51,7 @@
       "count": "0",
       "ottSortType": 1,
       "isNotOttDetail": false,
+      "isTagDisplay": false,
       "ottArrangement": {
         "to_activate": 2,
         "to_purchase": 3,
