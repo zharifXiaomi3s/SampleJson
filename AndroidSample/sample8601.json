@@ -1,39 +1,48 @@
 {
-    "request": [
+  "request": [
+    {
+      "title": "BANNER",
+      "apiType": "hw",
+      "colCell": "bannercolcell",
+      "showMore": "0",
+      "isMore": false,
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
         {
-            "title": "BANNER",
-            "apiType": "hw",
-            "colCell": "bannercolcell",
-            "showMore": "0",
-            "isMore": false,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "G1001"
-                    ]
-                }
-            ]
-        },
+          "key": "subjectID",
+          "values": [
+            "G1001"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oscar 2025 Spotlight",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "isMore": true,
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
         {
-            "title": "HIGHLIGHTS",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "G1001"
-                    ]
-                }
-            ]
-        },
-        {
+          "key": "subjectID",
+          "values": [
+            "G5006"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VAS SERVICE",
+      "apiType": "hw00b",
+      "colCell": "homevodcolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "customFields": []
+    },
+    {
             "title": "LIVE EVENTS",
             "apiType": "nm00d",
             "colCell": "homevodcolcell",
@@ -42,303 +51,324 @@
             "count": "0",
             "customFields": [
                 {
-                    "channelID": "54185493",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/19Okt_Johor_A2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/19Okt_Johor_A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/19Okt_Johor_A2.jpg",
-                    "name": "UFC 305: Du Plessis vs. Adesanya",
-                    "timeStart": "20241016 010000",
-                    "timeEnd": "20251018 140000",
-                    "playbillID": "71143512"
-                },
-                {
-                    "channelID": "20000109",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-C.jpg",
-                    "name": "MotoGP - Motorrad Grand Prix von Österreich",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240816 230000",
-                    "playbillID": "71053214"
-                },
-                {
-                    "channelID": "20000109",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-C.jpg",
-                    "name": "MotoGP - Motorrad Grand Prix von Österreich",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240817 220000",
-                    "playbillID": "71053310"
-                },
-                {
-                    "channelID": "20000109",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/MotoGP_Austria-C.jpg",
-                    "name": "MotoGP - Motorrad Grand Prix von Österreich",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240818 220000",
-                    "playbillID": "71053424"
-                },
-                {
                     "channelID": "20000076",
                     "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-C.jpg",
-                    "name": "2024 LIV Golf League GREENBRIER",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240817 060000",
-                    "playbillID": "71046879"
-                },
-                {
-                    "channelID": "20000076",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-C.jpg",
-                    "name": "2024 LIV Golf League GREENBRIER",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240818 060000",
-                    "playbillID": "71046939"
-                },
-                {
-                    "channelID": "20000076",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LivGolf-Greenbrier-Aug-C.jpg",
-                    "name": "2024 LIV Golf League GREENBRIER",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240819 060000",
-                    "playbillID": "71046999"
-                },
-                {
-                    "channelID": "20000076",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/SP-US-Open-2024-Aug-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/SP-US-Open-2024-Aug-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/US-Open-2024-Aug-C.jpg",
-                    "name": "US Open 2024",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240908 230000",
-                    "playbillID": "TBC2"
-                },
-                {
-                    "channelID": "20000109",
-                    "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AIG-Women-Open-Aug-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AIG-Women-Open-Aug-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AIG-Women-Open-Aug-C.jpg",
-                    "name": "AIG Women's Open",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240825 230000",
-                    "playbillID": "TBC3"
+                    "name": "Major League Soccer 2025 - St. Louis vs Columbus",
+                    "timeStart": "20250414 070000",
+                    "timeEnd": "20250414 093000",
+                    "playbillID": "95763394",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Major-League-Soccer-2025---St-Louis-vs-Columbus-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Major-League-Soccer-2025---St-Louis-vs-Columbus-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Major-League-Soccer-2025---St-Louis-vs-Columbus-C.jpg"
                 },
                 {
                     "channelID": "55456338",
                     "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-C.jpg",
-                    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240823 230000",
-                    "playbillID": "71104040"
+                    "name": "UEFA Champions League 2024/25 - Dortmund vs Barcelona - QF, 2nd Leg",
+                    "timeStart": "20250416 025500",
+                    "timeEnd": "20250416 050000",
+                    "playbillID": "95823433",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Dortmund-vs-Barcelona---QF-2nd-Leg-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Dortmund-vs-Barcelona---QF-2nd-Leg-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Dortmund-vs-Barcelona---QF-2nd-Leg-C.jpg"
+                },
+                {
+                    "channelID": "55456355",
+                    "action": "livetv_in",
+                    "name": "UEFA Champions League 2024/25 - Aston Villa vs PSG - QF, 2nd Leg",
+                    "timeStart": "20250416 025500",
+                    "timeEnd": "20250416 050000",
+                    "playbillID": "95718958",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Aston-Villa-vs-PSG---QF-2nd-Leg-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Aston-Villa-vs-PSG---QF-2nd-Leg-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Aston-Villa-vs-PSG---QF-2nd-Leg-C.jpg"
                 },
                 {
                     "channelID": "55456338",
                     "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-C.jpg",
-                    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240824 220000",
-                    "playbillID": "71104196"
+                    "name": "UEFA Champions League 2024/25 - Inter vs Bayern - QF, 2nd Leg",
+                    "timeStart": "20250417 025500",
+                    "timeEnd": "20250417 050000",
+                    "playbillID": "95823833",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Inter-vs-Bayern---QF-2nd-Leg-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Inter-vs-Bayern---QF-2nd-Leg-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Inter-vs-Bayern---QF-2nd-Leg-C.jpg"
+                },
+                {
+                    "channelID": "55456355",
+                    "action": "livetv_in",
+                    "name": "UEFA Champions League 2024/25 - Real Madrid vs Arsenal - QF, 2nd Leg",
+                    "timeStart": "20250417 025500",
+                    "timeEnd": "20250417 050000",
+                    "playbillID": "95719566",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Real-Madrid-vs-Arsenal---QF-2nd-Leg-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Real-Madrid-vs-Arsenal---QF-2nd-Leg-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Real-Madrid-vs-Arsenal---QF-2nd-Leg-C.jpg"
+                },
+                {
+                    "channelID": "20000109",
+                    "action": "livetv_in",
+                    "name": "ISUZU UTE A-League Men 2024/25 - Brisbane Roar FC vs Western United FC",
+                    "timeStart": "20250417 173000",
+                    "timeEnd": "20250417 193000",
+                    "playbillID": "TBC6",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Brisbane-Roar-FC-vs-Western-United-FC-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Brisbane-Roar-FC-vs-Western-United-FC-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Brisbane-Roar-FC-vs-Western-United-FC-C.jpg"
+                },
+                {
+                    "channelID": "20000076",
+                    "action": "livetv_in",
+                    "name": "ROSHN Saudi League 2024/25 - Al Hilal vs Al Khaleej",
+                    "timeStart": "20250417 233500",
+                    "timeEnd": "20250418 014500",
+                    "playbillID": "95764633",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Hilal-vs-Al-Khaleej-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Hilal-vs-Al-Khaleej-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Hilal-vs-Al-Khaleej-C.jpg"
+                },
+                {
+                    "channelID": "20000076",
+                    "action": "livetv_in",
+                    "name": "ROSHN Saudi League 2024/25 - Al Fateh vs Al Ittihad",
+                    "timeStart": "20250418 014500",
+                    "timeEnd": "20250418 040000",
+                    "playbillID": "95764654",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Fateh-vs-Al-Ittihad-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Fateh-vs-Al-Ittihad-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Fateh-vs-Al-Ittihad-C.jpg"
                 },
                 {
                     "channelID": "55456338",
                     "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/F1-Dutch-Italian-C.jpg",
-                    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240825 230000",
-                    "playbillID": "TBC4"
+                    "name": "UEFA Europa League 2024/25 - Frankfurt vs Tottenham - QF, 2nd Leg",
+                    "timeStart": "20250418 025500",
+                    "timeEnd": "20250418 050000",
+                    "playbillID": "95824121",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Europa-League-202425---Frankfurt-vs-Tottenham---QF-2nd-Leg-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Europa-League-202425---Frankfurt-vs-Tottenham---QF-2nd-Leg-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Europa-League-202425---Frankfurt-vs-Tottenham---QF-2nd-Leg-C.jpg"
                 },
                 {
-                    "channelID": "59922231",
+                    "channelID": "55456355",
                     "action": "livetv_in",
-                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP1000-Montreal-Cincinnati-B2.jpg",
-                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP1000-Montreal-Cincinnati-A2.jpg",
-                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ATP1000-Montreal-Cincinnati-C.jpg",
-                    "name": "ATP 1000 Cincinnati",
-                    "timeStart": "20240816 010000",
-                    "timeEnd": "20240820 230000",
-                    "playbillID": "70881127"
-                }
-            ]
-        },
-        {
-            "title": "ELITE FORCES",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "name": "UEFA Europa League 2024/25 - Man United vs Lyon - QF, 2nd Leg",
+                    "timeStart": "20250418 025500",
+                    "timeEnd": "20250418 050000",
+                    "playbillID": "95720094",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Europa-League-202425---Man-United-vs-Lyon---QF-2nd-Leg-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Europa-League-202425---Man-United-vs-Lyon---QF-2nd-Leg-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Europa-League-202425---Man-United-vs-Lyon---QF-2nd-Leg-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G1008"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "OTT HIGHLIGHTS",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "channelID": "20000109",
+                    "action": "livetv_in",
+                    "name": "ISUZU UTE A-League Men 2024/25 - Adelaide United vs Wellington Phoenix",
+                    "timeStart": "20250418 173000",
+                    "timeEnd": "20250418 193000",
+                    "playbillID": "95807307",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Adelaide-United-vs-Wellington-Phoenix-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Adelaide-United-vs-Wellington-Phoenix-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Adelaide-United-vs-Wellington-Phoenix-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G5006"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "NEW THIS WEEK",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "channelID": "55456338",
+                    "action": "livetv_in",
+                    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 Practice 1",
+                    "timeStart": "20250418 212500",
+                    "timeEnd": "20250418 223000",
+                    "playbillID": "95824505",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-1-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-1-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-1-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G5002"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "CONTINUE WATCHING",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "0",
-            "isMore": false,
-            "type": "11",
-            "count": "0"
-        },
-        {
-            "title": "RECOMMENDED MOVIES",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "channelID": "55456338",
+                    "action": "livetv_in",
+                    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 Practice 2",
+                    "timeStart": "20250419 005500",
+                    "timeEnd": "20250419 020000",
+                    "playbillID": "95824601",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-2-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-2-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-2-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G2005"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "RECOMMENDED SERIES",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "channelID": "20000076",
+                    "action": "livetv_in",
+                    "name": "ROSHN Saudi League 2024/25 - Al Qadsiah vs Al Nassr",
+                    "timeStart": "20250419 014500",
+                    "timeEnd": "20250419 040000",
+                    "playbillID": "95765011",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Qadsiah-vs-Al-Nassr-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Qadsiah-vs-Al-Nassr-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ROSHN-Saudi-League-202425---Al-Qadsiah-vs-Al-Nassr-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G2001"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "KIDS",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "channelID": "20000109",
+                    "action": "livetv_in",
+                    "name": "ISUZU UTE A-League Men 2024/25 - Melbourne Victory vs Auckland FC",
+                    "timeStart": "20250419 145500",
+                    "timeEnd": "20250419 170000",
+                    "playbillID": "95807580",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Melbourne-Victory-vs-Auckland-FC-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Melbourne-Victory-vs-Auckland-FC-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Melbourne-Victory-vs-Auckland-FC-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G2003"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "BBC FIRST HD",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "channelID": "55456355",
+                    "action": "livetv_in",
+                    "name": "Bundesliga 24/25 - Heidenheim 1846 vs Bayern",
+                    "timeStart": "20250419 212000",
+                    "timeEnd": "20250419 233000",
+                    "playbillID": "95720718",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---Heidenheim-1846-vs-Bayern-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---Heidenheim-1846-vs-Bayern-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---Heidenheim-1846-vs-Bayern-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G3002"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "INFO",
-            "apiType": "hw",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "3",
-            "count": "20",
-            "extensionFields": [
+                    "channelID": "55456338",
+                    "action": "livetv_in",
+                    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 Practice 3",
+                    "timeStart": "20250419 212500",
+                    "timeEnd": "20250419 223000",
+                    "playbillID": "95824953",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-3-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-3-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Practice-3-C.jpg"
+                },
                 {
-                    "key": "subjectID",
-                    "values": [
-                        "G2002"
-                    ]
+                    "channelID": "57682031",
+                    "action": "livetv_in",
+                    "name": "LaLiga 2024/25 - Barcelona vs Celta Vigo",
+                    "timeStart": "20250419 221500",
+                    "timeEnd": "20250420 002000",
+                    "playbillID": "TBC18",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Barcelona-vs-Celta-Vigo-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Barcelona-vs-Celta-Vigo-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Barcelona-vs-Celta-Vigo-C.jpg"
+                },
+                {
+                    "channelID": "55456338",
+                    "action": "livetv_in",
+                    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 Qualifying",
+                    "timeStart": "20250420 005500",
+                    "timeEnd": "20250420 020000",
+                    "playbillID": "95825049",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Qualifying-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Qualifying-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Qualifying-C.jpg"
+                },
+                {
+                    "channelID": "20000109",
+                    "action": "livetv_in",
+                    "name": "ISUZU UTE A-League Men 2024/25 - Sydney FC vs Newcastle Jets",
+                    "timeStart": "20250420 125500",
+                    "timeEnd": "20250420 145500",
+                    "playbillID": "95807853",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Sydney-FC-vs-Newcastle-Jets-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Sydney-FC-vs-Newcastle-Jets-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/ISUZU-UTE-A-League-Men-202425---Sydney-FC-vs-Newcastle-Jets-C.jpg"
+                },
+                {
+                    "channelID": "55456338",
+                    "action": "livetv_in",
+                    "name": "LaLiga 2024/25 - Las Palmas vs Atletico Madrid",
+                    "timeStart": "20250420 030000",
+                    "timeEnd": "20250420 050500",
+                    "playbillID": "95825081",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Las-Palmas-vs-Atletico-Madrid-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Las-Palmas-vs-Atletico-Madrid-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Las-Palmas-vs-Atletico-Madrid-C.jpg"
+                },
+                {
+                    "channelID": "55456355",
+                    "action": "livetv_in",
+                    "name": "Bundesliga 24/25 - Dortmund vs Monchengladbach",
+                    "timeStart": "20250420 232500",
+                    "timeEnd": "20250421 012500",
+                    "playbillID": "95720990",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---Dortmund-vs-Monchengladbach-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---Dortmund-vs-Monchengladbach-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---Dortmund-vs-Monchengladbach-C.jpg"
+                },
+                {
+                    "channelID": "55456338",
+                    "action": "livetv_in",
+                    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 Race",
+                    "timeStart": "20250420 233000",
+                    "timeEnd": "20250421 030000",
+                    "playbillID": "95825369",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Race-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Race-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FORMULA-1-STC-SAUDI-ARABIAN-GRAND-PRIX-2025-Race-C.jpg"
+                },
+                {
+                    "channelID": "55456355",
+                    "action": "livetv_in",
+                    "name": "Bundesliga 24/25 - St. Pauli vs Leverkusen",
+                    "timeStart": "20250421 012500",
+                    "timeEnd": "20250421 033000",
+                    "playbillID": "TBC24",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---St-Pauli-vs-Leverkusen-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---St-Pauli-vs-Leverkusen-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Bundesliga-2425---St-Pauli-vs-Leverkusen-C.jpg"
+                },
+                {
+                    "channelID": "55456355",
+                    "action": "livetv_in",
+                    "name": "LaLiga 2024/25 - Real Madrid vs Athletic Bilbao",
+                    "timeStart": "20250421 025500",
+                    "timeEnd": "20250421 050500",
+                    "playbillID": "95955750",
+                    "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Real-Madrid-vs-Athletic-Bilbao-B2.jpg",
+                    "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Real-Madrid-vs-Athletic-Bilbao-A2.jpg",
+                    "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/LaLiga-202425---Real-Madrid-vs-Athletic-Bilbao-C.jpg"
                 }
             ]
         },
-        {
-            "title": "CHANNELS",
-            "apiType": "hw",
-            "colCell": "homechannelcolcell",
-            "showMore": "1",
-            "isMore": true,
-            "type": "9",
-            "count": "20",
-            "isLastRow": true
-        }
-    ]
+    {
+      "title": "OTT PARTNER SERVICE",
+      "apiType": "hw00c",
+      "colCell": "homepartnercolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "ottSortType": 0,
+      "isNotOttDetail": false,
+      "isTagDisplay": true,
+      "ottArrangement": {
+        "to_activate": 2,
+        "to_purchase": 3,
+        "to_watch": 1, 
+        "to_manipulate": 100
+      }
+    },
+    {
+      "title": "CONTINUE WATCHING",
+      "apiType": "hw",
+      "colCell": "homevodcolcell",
+      "isMore": true,
+      "type": "11",
+      "count": "10"
+    },
+    {
+      "title": "MY PURCHASED LIBRARY",
+      "apiType": "hw00a",
+      "colCell": "homevodcolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0"
+    },
+    {
+      "title": "CHANNELS",
+      "apiType": "hw",
+      "colCell": "homechannelcolcell",
+      "showMore": "1",
+      "isMore": true,
+      "type": "9",
+      "count": "10",
+      "isLastRow": true
+    }
+  ]
 }
