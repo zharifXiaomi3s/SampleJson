@@ -18,6 +18,23 @@
       ]
     },
     {
+      "title": "OTT PARTNER SERVICE",
+      "apiType": "hw00c",
+      "colCell": "homepartnercolcell",
+      "isMore": false,
+      "type": "4",
+      "count": "0",
+      "ottSortType": 0,
+      "isNotOttDetail": false,
+      "isTagDisplay": true,
+      "ottArrangement": {
+        "to_activate": 2,
+        "to_purchase": 3,
+        "to_watch": 1,
+        "to_manipulate": 100
+      }
+    },
+    {
       "title": "OTT Spotlight",
       "apiType": "hw",
       "colCell": "homevodcolcell",
@@ -73,23 +90,6 @@
           "pictureBackg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Dortmund-vs-Barcelona---QF-2nd-Leg-C.jpg"
         }
       ]
-    },
-    {
-      "title": "OTT PARTNER SERVICE",
-      "apiType": "hw00c",
-      "colCell": "homepartnercolcell",
-      "isMore": false,
-      "type": "4",
-      "count": "0",
-      "ottSortType": 0,
-      "isNotOttDetail": false,
-      "isTagDisplay": true,
-      "ottArrangement": {
-        "to_activate": 2,
-        "to_purchase": 3,
-        "to_watch": 1,
-        "to_manipulate": 100
-      }
     },
     {
       "title": "CONTINUE WATCHING",
