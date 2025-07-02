@@ -1,65 +1,55 @@
 {
-  "request": [
-    {
-      "title": "BANNER",
-      "apiType": "hw",
-      "colCell": "bannercolcell",
-      "showMore": "0",
-      "isMore": false,
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
+    "request": [
         {
-          "key": "subjectID",
-          "values": [
-            "UW5009"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "OTT PARTNER SERVICE",
-      "apiType": "hw00c",
-      "colCell": "homepartnercolcell",
-      "isMore": false,
-      "type": "4",
-      "count": "0",
-      "ottSortType": 0,
-      "isNotOttDetail": false,
-      "isTagDisplay": true,
-      "ottArrangement": {
-        "to_activate": 2,
-        "to_purchase": 3,
-        "to_watch": 1,
-        "to_manipulate": 100
-      }
-    },
-    {
-      "title": "OTT Spotlight",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "isMore": true,
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
+            "title": "BANNER",
+            "apiType": "hw",
+            "colCell": "bannercolcell",
+            "showMore": "0",
+            "isMore": false,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW5009"
+                    ]
+                }
+            ]
+        },
         {
-          "key": "subjectID",
-          "values": [
-            "UW5008"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "VAS SERVICE",
-      "apiType": "hw00b",
-      "colCell": "homevodcolcell",
-      "isMore": false,
-      "type": "4",
-      "count": "0",
-      "customFields": []
-    },
-    {
+            "title": "OTT HIGHLIGHTS",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW5008"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "HONG KONG FILM AWARDS HEAT!",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW5010x"
+                    ]
+                }
+            ]
+        },
+        {
       "title": "LIVE EVENTS",
       "apiType": "nm00d",
       "colCell": "homevodcolcell",
@@ -71,8 +61,8 @@
           "channelID": "20000076",
           "action": "livetv_in",
           "name": "Major League Soccer 2025 - St. Louis vs Columbus",
-          "timeStart": "20250414 070000",
-          "timeEnd": "20250414 093000",
+          "timeStart": "20250631 070000",
+          "timeEnd": "20250814 093000",
           "playbillID": "95763394",
           "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Major-League-Soccer-2025---St-Louis-vs-Columbus-B2.jpg",
           "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Major-League-Soccer-2025---St-Louis-vs-Columbus-A2.jpg",
@@ -82,8 +72,8 @@
           "channelID": "55456338",
           "action": "livetv_in",
           "name": "UEFA Champions League 2024/25 - Dortmund vs Barcelona - QF, 2nd Leg",
-          "timeStart": "20250416 025500",
-          "timeEnd": "20250416 050000",
+          "timeStart": "20250715 025500",
+          "timeEnd": "20250816 050000",
           "playbillID": "95823433",
           "picture": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Dortmund-vs-Barcelona---QF-2nd-Leg-B2.jpg",
           "pictureDef": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEFA-Champions-League-202425---Dortmund-vs-Barcelona---QF-2nd-Leg-A2.jpg",
@@ -91,31 +81,190 @@
         }
       ]
     },
-    {
-      "title": "CONTINUE WATCHING",
-      "apiType": "hw",
-      "colCell": "homevodcolcell",
-      "isMore": true,
-      "type": "11",
-      "count": "10"
-    },
-    {
-      "title": "MY PURCHASED LIBRARY",
-      "apiType": "hw00a",
-      "colCell": "homevodcolcell",
-      "isMore": false,
-      "type": "4",
-      "count": "0"
-    },
-    {
-      "title": "CHANNELS",
-      "apiType": "hw",
-      "colCell": "homechannelcolcell",
-      "showMore": "1",
-      "isMore": true,
-      "type": "9",
-      "count": "10",
-      "isLastRow": true
-    }
-  ]
+        {
+            "title": "MISSION IMPOSSIBLE",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW1009"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "RM 5 FAMILY ENTERTAIMENT",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW1013x"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "WATCH BETTER WITH MAX",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW5004"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "FRESH MALAY",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW5005"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "NEW THIS WEEK",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW5002"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "CONTINUE WATCHING",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "11",
+            "count": "10"
+        },
+        {
+            "title": "MY PURCHASED LIBRARY",
+            "apiType": "hw00a",
+            "colCell": "homevodcolcell",
+            "isMore": false,
+            "type": "4",
+            "count": "0"
+        },
+        {
+            "title": "RECOMMENDED MOVIES",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW2005"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "RECOMMENDED SERIES",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW2001"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "KIDS",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW2003"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "BBC FIRST HD",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW3002"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "INFO",
+            "apiType": "hw",
+            "colCell": "homevodcolcell",
+            "isMore": true,
+            "type": "3",
+            "count": "10",
+            "extensionFields": [
+                {
+                    "key": "subjectID",
+                    "values": [
+                        "UW2002"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "CHANNELS",
+            "apiType": "hw",
+            "colCell": "homechannelcolcell",
+            "isMore": true,
+            "type": "9",
+            "count": "10",
+            "isLastRow": true
+        }
+    ]
 }
