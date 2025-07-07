@@ -2,7 +2,7 @@
   "request": [
     {
             "title": "LIVE EVENTS",
-            "apiType": "nm00da",
+            "apiType": "nm00a",
             "colCell": "bannercolcell",
             "isMore": false,
             "type": "4",
