@@ -1,9 +1,31 @@
 {
   "request": [
     {
+            "title": "LIVE EVENTS",
+            "apiType": "nm00d",
+            "colCell": "bannercolcell",
+            "isMore": false,
+            "type": "4",
+            "count": "0",
+            "customFields": [
+                {
+                    "ID": "https://ww12.readonepiece.com/chapter/one-piece-chapter-1147/",
+                    "action": "url_out",
+                    "name": "Major League Soccer 2025 - St. Louis vs Columbus",
+                    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTy7WdDa01PLuGl1P08dd9JK6qSBFj_PjGaw&s"
+                },
+                {
+                    "channelID": "55456338",
+                    "action": "url_out",
+                    "name": "UEFA Champions League 2024/25 - Dortmund vs Barcelona - QF, 2nd Leg",
+                    "picture": "https://caseystoner.com.au/wp-content/uploads/2021/12/Casey-Stoner-Knee-Down-March-23-Jerez-1280x853-1.jpeg"
+                },
+            ]
+    },
+    {
       "title": "BANNER",
       "apiType": "hw",
-      "colCell": "bannercolcell",
+      "colCell": "homevodcolcell",
       "showMore": "0",
       "isMore": false,
       "type": "3",
